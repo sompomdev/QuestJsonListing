@@ -1,0 +1,23 @@
+[
+    {
+        "id": "2ebfdf17-1349-4b72-9887-0aa56fc7ddd8",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 4,
+        "level": 1,
+        "iconName": "achm_139",
+        "dynamicAvailable": -1,
+        "kpiGameLevelReward": 9,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 6,
+                "eventName": "collectGold",
+                "progressType": "count_by_one",
+                "target": 0,
+                "bigTarget": 1
+            }
+        ],
+        "concurrent": []
+    }
+]

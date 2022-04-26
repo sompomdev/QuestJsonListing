@@ -1,0 +1,42 @@
+[
+    {
+        "id": "4afe97aa-f82a-4301-8be7-de7fc9d7ec9d",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiGameLevelReward": 9,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 76,
+                "eventName": "collectZoneBossCrown",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7b3a74b1-f995-48f1-a691-3b7dfd917e3a",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiGameLevelReward": 19,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 73,
+                "eventName": "collectZoneBossCrown",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    }
+]
