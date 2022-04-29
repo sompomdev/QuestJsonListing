@@ -7,14 +7,13 @@
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 96,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiBossLevel": 96,
+        "kpiGameLevelShouldAppear": 76,
         "ordered": [
             {
                 "progressTitleCode": 27,
                 "eventName": "usePowerUp",
                 "progressType": "combine_power_up",
-                "heroId": 0,
                 "target": 2
             }
         ],

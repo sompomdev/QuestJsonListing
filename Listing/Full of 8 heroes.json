@@ -8,7 +8,7 @@
         "iconName": "achm_508",
         "dynamicAvailable": 0,
         "kpiBossLevel": 70,
-        "kpiGameLevelShouldAppear": 10,
+        "kpiGameLevelShouldAppear": 60,
         "ordered": [
             {
                 "progressTitleCode": 34,
