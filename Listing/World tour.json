@@ -1,0 +1,44 @@
+[
+    {
+        "id": "bbef5678-1f71-464c-be56-650761694c97",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiGameLevelReward": 1020,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 36,
+                "eventName": "gameWorldLoop",
+                "progressType": "check_reach",
+                "heroId": 0,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7e0a58cd-cf2a-42ea-a311-cc9ec0e505a3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiGameLevelReward": 2040,
+        "kpiGameLevelShouldAppear": 1020,
+        "ordered": [
+            {
+                "progressTitleCode": 37,
+                "eventName": "gameWorldLoop",
+                "progressType": "count_by_one",
+                "heroId": 0,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "d37ad18b-a766-4e81-806c-bf9fc6cb55a3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 3,
+        "level": 1,
+        "iconName": "achm_529",
+        "dynamicAvailable": -1,
+        "kpiGameLevelReward": 2,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 8,
+                "eventName": "reachStage",
+                "progressType": "check_reach",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    }
+]

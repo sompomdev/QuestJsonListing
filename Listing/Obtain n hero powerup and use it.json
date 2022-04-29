@@ -1,0 +1,22 @@
+[
+    {
+        "id": "7b0429dd-bc9b-413e-8d2f-b7b65eeb27ed",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 10,
+        "kpiGameLevelReward": 48,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 64,
+                "eventName": "unlockPowerUp",
+                "progressType": "count_unlock_powerup_and_use_it",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    }
+]

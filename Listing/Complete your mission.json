@@ -1,39 +1,41 @@
 [
     {
-        "id": "4afe97aa-f82a-4301-8be7-de7fc9d7ec9d",
+        "id": "7fa100ef-f656-48f3-a7a5-dd5949e90c0a",
         "skippable": false,
         "isDynamic": false,
         "skipPrice": 5,
         "level": 1,
         "iconName": "achm_221",
         "dynamicAvailable": 0,
-        "kpiGameLevelReward": 9,
+        "kpiGameLevelReward": 1,
         "kpiGameLevelShouldAppear": 1,
         "ordered": [
             {
-                "progressTitleCode": 76,
-                "eventName": "collectZoneBossCrown",
+                "progressTitleCode": 39,
+                "eventName": "passBossFight",
                 "progressType": "count_by_one",
+                "heroId": 0,
                 "target": 1
             }
         ],
         "concurrent": []
     },
     {
-        "id": "7b3a74b1-f995-48f1-a691-3b7dfd917e3a",
+        "id": "c2372ed5-55a3-4f7a-bfa0-b6f68f66fbe3",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
         "level": 1,
         "iconName": "achm_221",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 19,
-        "kpiGameLevelShouldAppear": 10,
+        "kpiGameLevelReward": 2,
+        "kpiGameLevelShouldAppear": 2,
         "ordered": [
             {
-                "progressTitleCode": 73,
-                "eventName": "collectZoneBossCrown",
+                "progressTitleCode": 40,
+                "eventName": "passBossFight",
                 "progressType": "count_by_one",
+                "heroId": 0,
                 "target": 2
             }
         ],
