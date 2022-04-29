@@ -1,19 +1,19 @@
 [
     {
-        "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
+        "id": "6fb95e9d-d285-40be-8236-04ae0168c312",
         "skippable": true,
         "isDynamic": false,
         "skipPrice": 8,
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": 0,
-        "kpiBossLevel": 26,
-        "kpiGameLevelShouldAppear": 10,
+        "kpiBossLevel": 650,
+        "kpiGameLevelShouldAppear": 550,
         "ordered": [
             {
-                "progressTitleCode": 32,
+                "progressTitleCode": 33,
                 "eventName": "unlockSupporter",
-                "progressType": "check_full_active_support_reach",
+                "progressType": "check_full_flying_support_reach",
                 "target": -1
             }
         ],
