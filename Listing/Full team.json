@@ -1,6 +1,6 @@
 [
     {
-        "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
+        "id": "7fd2600c-0356-478e-8c15-b073e8a421f8",
         "skippable": true,
         "isDynamic": false,
         "skipPrice": 8,
@@ -11,9 +11,9 @@
         "kpiGameLevelShouldAppear": 10,
         "ordered": [
             {
-                "progressTitleCode": 32,
-                "eventName": "unlockSupporter",
-                "progressType": "check_full_active_support_reach",
+                "progressTitleCode": 35,
+                "eventName": "dynamic",
+                "progressType": "check_full_team_reach",
                 "target": -1
             }
         ],
