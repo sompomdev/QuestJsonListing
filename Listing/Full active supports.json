@@ -1,0 +1,22 @@
+[
+    {
+        "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 26,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 32,
+                "eventName": "unlockSupporter",
+                "progressType": "check_full_active_support_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    }
+]
