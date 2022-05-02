@@ -1,0 +1,22 @@
+[
+	{
+	  "id": "3e092d42-46da-451a-b370-9d361315f609",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "orange_035",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 5,
+	  "kpiGameLevelShouldAppear": 3,
+	  "ordered": [
+		{
+		  "progressTitleCode": 10,
+		  "eventName": "defeatBossBattle",
+		  "progressType": "count_by_one",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
