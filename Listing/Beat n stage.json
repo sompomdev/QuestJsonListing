@@ -18,25 +18,5 @@
       }
     ],
     "concurrent": []
-  },
-  {
-    "id": "0082105a-c584-4e4f-a0ff-b34099cb76b9",
-    "skippable": true,
-    "isDynamic": true,
-    "skipPrice": 5,
-    "level": 1,
-    "iconName": "achm_221",
-    "dynamicAvailable": -1,
-    "kpiBossLevel": 29,
-    "kpiGameLevelShouldAppear": 4,
-    "ordered": [
-      {
-        "progressTitleCode": 57,
-        "eventName": "completeStage",
-        "progressType": "count_by_one",
-        "target": 25
-      }
-    ],
-    "concurrent": []
   }
 ]

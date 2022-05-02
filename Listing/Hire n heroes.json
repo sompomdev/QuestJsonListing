@@ -7,8 +7,8 @@
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": 8,
-        "kpiGameLevelReward": 10,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiBossLevel": 10,
+        "kpiGameLevelShouldAppear": 10,
         "ordered": [
             {
                 "progressTitleCode": 16,
