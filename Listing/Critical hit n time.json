@@ -1,0 +1,22 @@
+[
+	{
+	  "id": "e6ab73d4-e73a-4637-910b-b6643ef07b5f",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 6,
+	  "kpiGameLevelShouldAppear": 4,
+	  "ordered": [
+		{
+		  "progressTitleCode": 89,
+		  "eventName": "criticriticalTap",
+		  "progressType": "count_by_one",
+		  "target": 3
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
