@@ -1,5 +1,25 @@
 [
     {
+        "id": "e6ab73d4-e73a-4637-910b-b6643ef07b5f",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 6,
+        "kpiGameLevelShouldAppear": 4,
+        "ordered": [
+            {
+                "progressTitleCode": 89,
+                "eventName": "criticriticalTap",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
         "id": "16139f5b-56ad-414a-8bd6-9ceaabfbd19e",
         "skippable": true,
         "isDynamic": true,
@@ -157,6 +177,27 @@
                 "eventName": "passBossFight",
                 "progressType": "count_by_one",
                 "heroId": 0,
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+
+    {
+        "id": "3e092d42-46da-451a-b370-9d361315f609",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "orange_035",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 5,
+        "kpiGameLevelShouldAppear": 3,
+        "ordered": [
+            {
+                "progressTitleCode": 10,
+                "eventName": "defeatBossBattle",
+                "progressType": "count_by_one",
                 "target": 2
             }
         ],
@@ -469,6 +510,46 @@
         "concurrent": []
     },
     {
+        "id": "20035ae1-8ce7-4eee-9234-521524f127cf",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_stage",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 12,
+        "kpiGameLevelShouldAppear": 9,
+        "ordered": [
+            {
+                "progressTitleCode": 5,
+                "eventName": "unlockSupporter",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "15432b4d-5622-4a8c-a20d-9dec67479ce2",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 6646,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 82,
+                "eventName": "playingTime",
+                "progressType": "count_by_day",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
         "id": "f3aeec3d-4259-4ddd-bd6a-0d98e25579b5",
         "skippable": true,
         "isDynamic": false,
@@ -628,6 +709,26 @@
                 "eventName": "reachStage",
                 "progressType": "check_reach",
                 "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4abe7667-b905-4c3b-adbd-fc6ec9fb4b51",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 5,
+        "kpiGameLevelShouldAppear": 3,
+        "ordered": [
+            {
+                "progressTitleCode": 42,
+                "eventName": "completeStage",
+                "progressType": "check_reach",
+                "target": 5
             }
         ],
         "concurrent": []
