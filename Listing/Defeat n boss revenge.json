@@ -1,0 +1,22 @@
+[
+	{
+	  "id": "47f01240-c954-4f0d-9af9-51074faf86cb",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 6,
+	  "level": 1,
+	  "iconName": "orange_036",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 4,
+	  "kpiGameLevelShouldAppear": 2,
+	  "ordered": [
+		{
+		  "progressTitleCode": 11,
+		  "eventName": "defeatBossRevenge",
+		  "progressType": "count_by_one",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
