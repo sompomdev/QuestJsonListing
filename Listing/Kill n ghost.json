@@ -1,0 +1,22 @@
+[
+	{
+	  "id": "efc8fd67-9d97-439b-90ba-c82547114056",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 4,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 1,
+	  "kpiGameLevelShouldAppear": 1,
+	  "ordered": [
+		{
+		  "progressTitleCode": 9,
+		  "eventName": "killGhost",
+		  "progressType": "count_by_one",
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
