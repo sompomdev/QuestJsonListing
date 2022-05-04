@@ -1,5 +1,23 @@
 [
     {
+        "id": "7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0",
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_221",
+        "kpiBossLevel": 1,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 0,
+                "eventName": "tap",
+                "target": 1,
+                "bigReward": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
         "id": "e6ab73d4-e73a-4637-910b-b6643ef07b5f",
         "skippable": true,
         "isDynamic": true,
@@ -203,24 +221,7 @@
         ],
         "concurrent": []
     },
-    {
-        "id": "7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0",
-        "skippable": false,
-        "skipPrice": 5,
-        "iconName": "achm_221",
-        "kpiBossLevel": 1,
-        "kpiGameLevelShouldAppear": 1,
-        "ordered": [
-            {
-                "progressTitleCode": 0,
-                "eventName": "tap",
-                "target": 1,
-                "bigReward": 1,
-                "progressType": "count_by_one"
-            }
-        ],
-        "concurrent": []
-    },
+    
     {
         "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
         "skippable": true,
