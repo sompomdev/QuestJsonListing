@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "9578bbb4-e712-45a9-8023-9d80b6afd6d0",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 25,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 24,
+	  "ordered": [
+		{
+		  "progressTitleCode": 24,
+		  "eventName": "makeHeroResurrection",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]

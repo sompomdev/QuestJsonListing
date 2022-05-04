@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "af5e8f05-d49f-447e-9522-3d814f3eb036",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 50,
+	  "kpiGameLevelShouldAppear": 40,
+	  "forcePriority": 1,
+	  "ordered": [
+		{
+		  "progressTitleCode": 17,
+		  "eventName": "gameLaunched",
+		  "progressType": "count_come_back_to_game_consecutive",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
