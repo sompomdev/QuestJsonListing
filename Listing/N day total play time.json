@@ -9,6 +9,7 @@
         "dynamicAvailable": -1,
         "kpiBossLevel": 23,
         "kpiGameLevelShouldAppear": 1,
+        "jumpingLevel":50,
         "ordered": [
             {
                 "progressTitleCode": 54,
@@ -29,6 +30,7 @@
         "dynamicAvailable": -1,
         "kpiBossLevel": 276,
         "kpiGameLevelShouldAppear": 1,
+        "jumpingLevel":300,
         "ordered": [
             {
                 "progressTitleCode": 81,
@@ -49,6 +51,7 @@
         "dynamicAvailable": -1,
         "kpiBossLevel": 6646,
         "kpiGameLevelShouldAppear": 1,
+        "jumpingLevel":7000,
         "ordered": [
             {
                 "progressTitleCode": 82,
