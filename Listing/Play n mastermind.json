@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "b035eda8-d018-4863-8dc7-b3c313bc6f0e",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 28,
+	  "jumpingLevel": 25,
+	  "kpiGameLevelShouldAppear": 28,
+	  "ordered": [
+		{
+		  "progressTitleCode": 100,
+		  "eventName": "playMasterMind",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
