@@ -8,6 +8,7 @@
 	  "iconName": "achm_stage",
 	  "dynamicAvailable": -1,
 	  "kpiBossLevel": 12,
+	  "jumpingLevel": 20,
 	  "kpiGameLevelShouldAppear": 9,
 	  "ordered": [
 		{
