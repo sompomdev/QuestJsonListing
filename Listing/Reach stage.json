@@ -7,19 +7,20 @@
         "level": 1,
         "iconName": "achm_529",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 2,
+        "kpiBossLevel": 2,
+        "jumpingLevel": 10,
         "kpiGameLevelShouldAppear": 1,
         "ordered": [
-            {
-                "progressTitleCode": 8,
-                "eventName": "reachStage",
-                "progressType": "check_reach",
-                "target": 2
-            }
+          {
+            "progressTitleCode": 8,
+            "eventName": "reachStage",
+            "progressType": "check_reach",
+            "target": 2
+          }
         ],
         "concurrent": []
-    },
-    {
+      },
+      {
         "id": "4abe7667-b905-4c3b-adbd-fc6ec9fb4b51",
         "skippable": true,
         "isDynamic": true,
@@ -28,6 +29,7 @@
         "iconName": "achm_221",
         "dynamicAvailable": -1,
         "kpiBossLevel": 5,
+        "jumpingLevel": 10,
         "kpiGameLevelShouldAppear": 3,
         "ordered": [
           {
