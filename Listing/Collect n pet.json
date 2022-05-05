@@ -1,0 +1,23 @@
+[
+    {
+        "id": "302cd232-9e78-46a7-b5e4-043ea8aa830d",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "orange_070",
+        "dynamicAvailable": 39,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 14,
+                "eventName": "petUnlock",
+                "progressType": "check_reach",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    }
+]
