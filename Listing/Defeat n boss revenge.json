@@ -8,6 +8,7 @@
 	  "iconName": "orange_036",
 	  "dynamicAvailable": -1,
 	  "kpiBossLevel": 4,
+	  "jumpingLevel": 16,
 	  "kpiGameLevelShouldAppear": 2,
 	  "ordered": [
 		{

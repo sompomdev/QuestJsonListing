@@ -8,6 +8,7 @@
 	  "iconName": "achm_508",
 	  "dynamicAvailable": -1,
 	  "kpiBossLevel": 50,
+	  "jumpingLevel": 500,
 	  "kpiGameLevelShouldAppear": 40,
 	  "forcePriority": 1,
 	  "ordered": [

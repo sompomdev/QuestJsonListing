@@ -8,6 +8,7 @@
     "iconName": "achm_221",
     "dynamicAvailable": -1,
     "kpiBossLevel": 9,
+    "jumpingLevel": 16,
     "kpiGameLevelShouldAppear": 4,
     "ordered": [
       {
