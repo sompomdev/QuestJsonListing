@@ -7,14 +7,14 @@
         "level": 1,
         "iconName": "achm_221",
         "dynamicAvailable": 0,
-        "kpiGameLevelReward": 1,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 0,
         "kpiGameLevelShouldAppear": 1,
         "ordered": [
             {
                 "progressTitleCode": 39,
-                "eventName": "passBossFight",
+                "eventName": "onUnlockNewZone",
                 "progressType": "count_by_one",
-                "heroId": 0,
                 "target": 1
             }
         ],
@@ -28,14 +28,14 @@
         "level": 1,
         "iconName": "achm_221",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 2,
-        "kpiGameLevelShouldAppear": 2,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 11,
         "ordered": [
             {
                 "progressTitleCode": 40,
-                "eventName": "passBossFight",
+                "eventName": "onUnlockNewZone",
                 "progressType": "count_by_one",
-                "heroId": 0,
                 "target": 2
             }
         ],
