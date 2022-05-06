@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "82cc2abe-317f-4124-8edf-e01061514601",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 1661,
+	  "jumpingLevel": 4153,
+	  "kpiGameLevelShouldAppear": 831,
+	  "ordered": [
+		{
+		  "progressTitleCode": 28,
+		  "eventName": "gameLaunched",
+		  "progressType": "play_game_on_the_weekend",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
