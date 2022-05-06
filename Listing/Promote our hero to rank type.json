@@ -1,0 +1,86 @@
+[
+	{
+	  "id": "6d24e5ad-94cd-4724-8a77-2bd50b0bd558",
+	  "skippable": true,
+	  "isDynamic": false,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": 0,
+	  "kpiBossLevel": 613,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 563,
+	  "ordered": [
+		{
+		  "progressTitleCode": 65,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "hero_reach_rank",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "716e4867-c04d-4a7a-bcf9-760be9f13489",
+	  "skippable": true,
+	  "isDynamic": false,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": 0,
+	  "kpiBossLevel": 10124,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 10074,
+	  "ordered": [
+		{
+		  "progressTitleCode": 66,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "hero_reach_rank",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "cfda62be-cdd0-4878-b360-057ab83d14d7",
+	  "skippable": true,
+	  "isDynamic": false,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": 0,
+	  "kpiBossLevel": 20246,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 20196,
+	  "ordered": [
+		{
+		  "progressTitleCode": 67,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "hero_reach_rank",
+		  "target": 3
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "9ae51f8e-17b6-49cb-98e5-1cd63ccb1233",
+	  "skippable": true,
+	  "isDynamic": false,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": 0,
+	  "kpiBossLevel": 30367,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 30317,
+	  "ordered": [
+		{
+		  "progressTitleCode": 68,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "hero_reach_rank",
+		  "target": 4
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
