@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "5e2a9187-55b1-4eb8-bc5f-c416ebfe96e8",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 235,
+	  "jumpingLevel": 235,
+	  "kpiGameLevelShouldAppear": 230,
+	  "ordered": [
+		{
+		  "progressTitleCode": 93,
+		  "eventName": "updateGhostRoundReduced",
+		  "progressType": "check_reach",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
