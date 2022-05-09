@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "ce22f359-69fd-4f73-8848-4cced2be6f4c",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 17,
+	  "jumpingLevel": 300,
+	  "kpiGameLevelShouldAppear": 12,
+	  "ordered": [
+		{
+		  "progressTitleCode": 94,
+		  "eventName": "refreshCurrentDps",
+		  "progressType": "check_reach",
+		  "bigTarget": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
