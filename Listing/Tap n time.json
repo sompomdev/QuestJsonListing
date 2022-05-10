@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "bd3303aa-ac0a-4fb6-9a77-c2963d9fc7a9",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 3,
+	  "level": 1,
+	  "iconName": "achm_gold",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 1,
+	  "jumpingLevel": 10,
+	  "kpiGameLevelShouldAppear": 1,
+	  "ordered": [
+		{
+		  "progressTitleCode": 2,
+		  "eventName": "tap",
+		  "progressType": "count_by_one",
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
