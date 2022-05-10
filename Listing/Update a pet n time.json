@@ -1,0 +1,44 @@
+[
+	{
+	  "id": "e3c482fd-21ea-4e47-9f14-987dbd993e36",
+	  "skippable": true,
+	  "isDynamic": false,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": 0,
+	  "kpiBossLevel": 10,
+	  "jumpingLevel": 0,
+	  "kpiGameLevelShouldAppear": 10,
+	  "ordered": [
+		{
+		  "progressTitleCode": 78,
+		  "eventName": "petUpdateLevel",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "681bec6d-d9fc-4ca4-b5f6-2d65f808a8dd",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 25,
+	  "jumpingLevel": 350,
+	  "kpiGameLevelShouldAppear": 25,
+	  "ordered": [
+		{
+		  "progressTitleCode": 79,
+		  "eventName": "petUpdateLevel",
+		  "progressType": "count_upgrade_a_pet_n_time",
+		  "target": 3
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
