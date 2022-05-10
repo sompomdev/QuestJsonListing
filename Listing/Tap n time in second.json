@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "8f4df756-f24c-4150-b7e0-790010e885f8",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 3,
+	  "level": 1,
+	  "iconName": "achm_528",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 1,
+	  "jumpingLevel": 2,
+	  "kpiGameLevelShouldAppear": 1,
+	  "ordered": [
+		{
+		  "progressTitleCode": 1,
+		  "eventName": "tap",
+		  "progressType": "count_in_duration",
+		  "target": 5,
+		  "duration": 4
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
