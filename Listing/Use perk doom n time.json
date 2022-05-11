@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "68210f68-1fec-4ddd-a43b-e8eaf38e805c",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 1100,
+	  "jumpingLevel": 1000,
+	  "kpiGameLevelShouldAppear": 900,
+	  "ordered": [
+		{
+		  "progressTitleCode": 86,
+		  "eventName": "usePerkDoom",
+		  "progressType": "count_by_one",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
