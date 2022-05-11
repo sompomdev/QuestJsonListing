@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "1605a74b-f140-4357-850f-be8709f9526c",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 101,
+	  "jumpingLevel": 200,
+	  "kpiGameLevelShouldAppear": 101,
+	  "ordered": [
+		{
+		  "progressTitleCode": 92,
+		  "eventName": "usePowerUp",
+		  "progressType": "use_n_time_n_powerup",
+		  "target": 2,
+		  "target2": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
