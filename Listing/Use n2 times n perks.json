@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "d444b105-323b-46f4-9eae-ea222adc2280",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 100,
+	  "jumpingLevel": 1500,
+	  "kpiGameLevelShouldAppear": 100,
+	  "ordered": [
+		{
+		  "progressTitleCode": 91,
+		  "eventName": "usePerk",
+		  "progressType": "use_n_time_n_perk",
+		  "target": 1,
+		  "target2": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
