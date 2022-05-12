@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "f609c95d-0834-487f-9145-9777322698f6",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_529",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 20,
+	  "jumpingLevel": 25,
+	  "kpiGameLevelShouldAppear": 15,
+	  "ordered": [
+		{
+		  "progressTitleCode": 12,
+		  "eventName": "tapOnTheBird",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
