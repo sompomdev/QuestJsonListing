@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "fe9cc4ff-3666-4921-949b-dc7dfd777fcb",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 20,
+	  "jumpingLevel": 100,
+	  "kpiGameLevelShouldAppear": 20,
+	  "ordered": [
+		{
+		  "progressTitleCode": 20,
+		  "eventName": "petUpdateLevel",
+		  "progressType": "check_n_pet_level_reach",
+		  "target": 2,
+		  "target2": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
