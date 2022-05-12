@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "d907621f-0dc0-462c-ac3a-bd2742323e5c",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 23,
+	  "jumpingLevel": 50,
+	  "kpiGameLevelShouldAppear": 15,
+	  "ordered": [
+		{
+		  "progressTitleCode": 13,
+		  "eventName": "watchTheVideo",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
