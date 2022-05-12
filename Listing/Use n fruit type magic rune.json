@@ -1,0 +1,134 @@
+[
+	{
+	  "id": "da1436f0-3b1c-47d0-ac1d-2aafe9659282",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 30,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 29,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 0,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "00fae54e-35c6-48e8-a969-bf5a00ee867a",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 35,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 34,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 1,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "930ed5a8-d0cb-452a-8ead-599b9e7eb967",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 40,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 39,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 2,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "63a2d509-0d87-4225-9206-f68a4769f51b",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 45,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 44,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 3,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "f19e09c6-6810-4fa0-acd1-2433c4a773be",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 50,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 49,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 4,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "31e5644d-6ad2-451d-bf15-4c1979318eaf",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 55,
+	  "jumpingLevel": 15,
+	  "kpiGameLevelShouldAppear": 54,
+	  "ordered": [
+		{
+		  "progressTitleCode": 98,
+		  "eventName": "onFruitMatch",
+		  "progressType": "count_fruit_match_by_color",
+		  "fruitType": 5,
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
