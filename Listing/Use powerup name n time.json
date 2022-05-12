@@ -1,0 +1,222 @@
+[
+	{
+	  "id": "10ab7c0c-46ad-49c7-a966-c862f2239bd0",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 101,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 101,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "THUNDER_ATTACK",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "6ad91c6d-df41-477c-85ae-2fbb1b4dad61",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 102,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 102,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "TWIN_SHADOW",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "591e7601-6345-4f38-862c-7b5e937d27d7",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 111,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 111,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "THE_TEAMMATE",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "acf6ea55-76ba-476e-ab79-8ad6c66425fa",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 247,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 247,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "LAST_HAND",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "c2590d94-e4ed-422b-9dd2-c5e9216761e4",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 370,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 370,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "FAST_AND_FURIOUS",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "6755e732-7223-4140-9414-f94215a144d7",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 493,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 493,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "ANGER_OF_GOD",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "4e6d072e-e8f7-45a9-917c-5660b3102050",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 617,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 617,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "GOLD_FINGER",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "c61b3851-123a-48fe-bcf4-e1a5b2fddab2",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 630,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 630,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "ANGER_OF_PET",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "f6d533d9-7b48-4f80-8fa8-b77b25abe955",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 643,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 643,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "PROTECTION",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	},
+	{
+	  "id": "10c3f171-5fa4-47fc-858f-d9987d1db678",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_508",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 657,
+	  "jumpingLevel": 175,
+	  "kpiGameLevelShouldAppear": 657,
+	  "ordered": [
+		{
+		  "progressTitleCode": 105,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_use_powerup_by_type",
+		  "powerUpType": "FLYING_SUPPORT",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
