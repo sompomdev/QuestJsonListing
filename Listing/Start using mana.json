@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "2c478a7f-cebe-485c-919f-00d307df6e20",
+	  "skippable": false,
+	  "isDynamic": false,
+	  "skipPrice": 5,
+	  "dynamicAvailable": 0,
+	  "kpiGameLevelShouldAppear": 43,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 48,
+	  "jumpingLevel": 0,
+	  "ordered": [
+		{
+		  "progressTitleCode": 50,
+		  "eventName": "usePowerUp",
+		  "progressType": "count_by_one",
+		  "target": 1
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
