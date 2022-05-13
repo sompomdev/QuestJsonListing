@@ -24,6 +24,7 @@
 	},
 	{
 	  "id": "6ad91c6d-df41-477c-85ae-2fbb1b4dad61",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -46,6 +47,7 @@
 	},
 	{
 	  "id": "591e7601-6345-4f38-862c-7b5e937d27d7",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -68,6 +70,7 @@
 	},
 	{
 	  "id": "acf6ea55-76ba-476e-ab79-8ad6c66425fa",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -90,6 +93,7 @@
 	},
 	{
 	  "id": "c2590d94-e4ed-422b-9dd2-c5e9216761e4",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -112,6 +116,7 @@
 	},
 	{
 	  "id": "6755e732-7223-4140-9414-f94215a144d7",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -134,6 +139,7 @@
 	},
 	{
 	  "id": "4e6d072e-e8f7-45a9-917c-5660b3102050",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -156,6 +162,7 @@
 	},
 	{
 	  "id": "c61b3851-123a-48fe-bcf4-e1a5b2fddab2",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -178,6 +185,7 @@
 	},
 	{
 	  "id": "f6d533d9-7b48-4f80-8fa8-b77b25abe955",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
@@ -200,6 +208,7 @@
 	},
 	{
 	  "id": "10c3f171-5fa4-47fc-858f-d9987d1db678",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

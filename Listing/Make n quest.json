@@ -1,5 +1,6 @@
 [ {
     "id": "14ca15a0-1a36-40c0-8bce-d8b1dd671ff8",
+    "type": "quest",
     "skippable": true,
     "isDynamic": true,
     "skipPrice": 5,

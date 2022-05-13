@@ -24,6 +24,13 @@ fs.readdir(pathLising, function (err, files) {
         fileToSave = myArgs[0]
     }
    
+    list.forEach(function (item){
+        if (item.type == null)
+        {
+            console.error("Must have type for quest : " + item.id);
+        }
+    })
+
     writeJson(fileToSave, list)
 
     console.log("Save to file name : " + fileToSave)

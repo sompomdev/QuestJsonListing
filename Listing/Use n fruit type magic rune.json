@@ -24,6 +24,7 @@
 	},
 	{
 	  "id": "00fae54e-35c6-48e8-a969-bf5a00ee867a",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
@@ -46,6 +47,7 @@
 	},
 	{
 	  "id": "930ed5a8-d0cb-452a-8ead-599b9e7eb967",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
@@ -68,6 +70,7 @@
 	},
 	{
 	  "id": "63a2d509-0d87-4225-9206-f68a4769f51b",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
@@ -90,6 +93,7 @@
 	},
 	{
 	  "id": "f19e09c6-6810-4fa0-acd1-2433c4a773be",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
@@ -112,6 +116,7 @@
 	},
 	{
 	  "id": "31e5644d-6ad2-451d-bf15-4c1979318eaf",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

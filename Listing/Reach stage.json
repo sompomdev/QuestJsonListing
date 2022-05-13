@@ -23,6 +23,7 @@
       },
       {
         "id": "4abe7667-b905-4c3b-adbd-fc6ec9fb4b51",
+        "type": "game_level",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
