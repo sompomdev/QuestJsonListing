@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "4b852055-a1c0-419f-8f9c-44d5e6870966",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "dynamicAvailable": -1,
+	  "kpiBossLevel": 502,
+	  "jumpingLevel": 80,
+	  "kpiGameLevelShouldAppear": 500,
+	  "ordered": [
+		{
+		  "progressTitleCode": 25,
+		  "eventName": "makeSupportResurrection",
+		  "progressType": "count_by_one",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
