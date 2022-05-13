@@ -1,15 +1,39 @@
 [
     {
         "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
+        "type": "big_boss",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 9,
+        "forcePriority": 2,
+        "ordered": [
+            {
+                "progressTitleCode": 114,
+                "eventName": "defeatBigBoss",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
+        "type": "big_boss",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
         "level": 1,
         "iconName": "achm_221",
         "dynamicAvailable": -1,
-        "kpiBossLevel": 10,
-        "jumpingLevel": 20,
-        "kpiGameLevelShouldAppear": 3,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 18,
+        "kpiGameLevelShouldAppear": 18,
         "ordered": [
             {
                 "progressTitleCode": 114,
@@ -22,6 +46,7 @@
     },
     {
         "id": "083d1d66-8818-4508-9402-dca739f86983",
+        "type": "battle_boss",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,

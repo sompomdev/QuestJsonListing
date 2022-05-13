@@ -1,7 +1,9 @@
 [
     {
       "id": "63209fff-2251-42b7-aed3-e1bc6e7d8147",
-      "skippable": true,
+      "type": "power_up",
+        "forcePriority": 1,
+      "skippable": false,
       "isDynamic": false,
       "skipPrice": 8,
       "level": 1,

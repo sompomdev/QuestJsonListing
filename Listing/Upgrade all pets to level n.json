@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "01fcf719-4672-4f8c-a801-c66941d0185f",
+	  "type": "update_pet",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "bd3303aa-ac0a-4fb6-9a77-c2963d9fc7a9",
+	  "type": "tap",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 3,
@@ -15,7 +16,7 @@
 		  "progressTitleCode": 2,
 		  "eventName": "tap",
 		  "progressType": "count_by_one",
-		  "target": 5
+		  "target": 20
 		}
 	  ],
 	  "concurrent": []

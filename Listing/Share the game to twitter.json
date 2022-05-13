@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "b5aa330d-5f0a-47d0-a883-939e7befd6cf",
+	  "type": "social_share",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

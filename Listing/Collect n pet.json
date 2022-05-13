@@ -1,6 +1,7 @@
 [
     {
         "id": "302cd232-9e78-46a7-b5e4-043ea8aa830d",
+        "type": "unlock_pet",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 8,
@@ -9,7 +10,7 @@
         "dynamicAvailable": 39,
         "kpiBossLevel": 10,
         "jumpingLevel": 15,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiGameLevelShouldAppear": 9,
         "ordered": [
             {
                 "progressTitleCode": 14,

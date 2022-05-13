@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "5990365a-35a1-4269-a614-a38becdab9e9",
+	  "type": "perk",
 	  "skippable": false,
 	  "isDynamic": false,
 	  "skipPrice": 5,
@@ -10,6 +11,7 @@
 	  "kpiBossLevel": 150,
 	  "jumpingLevel": 0,
 	  "kpiGameLevelShouldAppear": 150,
+	  "forcePriority": 1,
 	  "ordered": [
 		{
 		  "progressTitleCode": 58,

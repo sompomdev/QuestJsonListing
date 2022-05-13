@@ -1,13 +1,15 @@
 [
     {
         "id": "2ebfdf17-1349-4b72-9887-0aa56fc7ddd8",
+        "type": "collect_gold",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 4,
         "level": 1,
         "iconName": "achm_139",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 9,
+        "kpiBossLevel": 9,
+        "jumpingLevel": 10,
         "kpiGameLevelShouldAppear": 1,
         "ordered": [
             {

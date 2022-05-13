@@ -1,6 +1,7 @@
 [
     {
         "id": "a404f8fe-b91a-4cd6-886d-7de4d19df84b",
+        "type": "hero",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 8,
@@ -8,6 +9,7 @@
         "iconName": "achm_508",
         "dynamicAvailable": 8,
         "kpiBossLevel": 10,
+        "jumpingLevel": 10,
         "kpiGameLevelShouldAppear": 10,
         "ordered": [
             {

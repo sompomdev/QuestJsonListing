@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "b035eda8-d018-4863-8dc7-b3c313bc6f0e",
+	  "type": "master_mind",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

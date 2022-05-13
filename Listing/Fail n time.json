@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "e65dd591-721e-4dae-8957-abb6ebe48e8c",
+	  "type": "failed_boss",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

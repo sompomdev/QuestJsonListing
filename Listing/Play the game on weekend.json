@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "82cc2abe-317f-4124-8edf-e01061514601",
+	  "type": "game_launched",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

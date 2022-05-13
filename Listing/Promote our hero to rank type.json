@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "6d24e5ad-94cd-4724-8a77-2bd50b0bd558",
+	  "type": "hero_reach_rank",
 	  "skippable": true,
 	  "isDynamic": false,
 	  "skipPrice": 5,
@@ -22,6 +23,7 @@
 	},
 	{
 	  "id": "716e4867-c04d-4a7a-bcf9-760be9f13489",
+	  "type": "hero_reach_rank",
 	  "skippable": true,
 	  "isDynamic": false,
 	  "skipPrice": 5,
@@ -43,6 +45,7 @@
 	},
 	{
 	  "id": "cfda62be-cdd0-4878-b360-057ab83d14d7",
+	  "type": "hero_reach_rank",
 	  "skippable": true,
 	  "isDynamic": false,
 	  "skipPrice": 5,
@@ -64,6 +67,7 @@
 	},
 	{
 	  "id": "9ae51f8e-17b6-49cb-98e5-1cd63ccb1233",
+	  "type": "hero_reach_rank",
 	  "skippable": true,
 	  "isDynamic": false,
 	  "skipPrice": 5,

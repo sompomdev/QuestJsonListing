@@ -1,15 +1,16 @@
 [
 	{
 	  "id": "b3dc258c-abc1-4cff-9210-38facb2b00c5",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
 	  "level": 1,
 	  "iconName": "achm_221",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 3,
+	  "kpiBossLevel": 50,
 	  "jumpingLevel": 20,
-	  "kpiGameLevelShouldAppear": 3,
+	  "kpiGameLevelShouldAppear": 50,
 	  "ordered": [
 		{
 		  "progressTitleCode": 99,
@@ -23,15 +24,16 @@
 	},
 	{
 	  "id": "dc87e098-8353-414f-91e9-a32088c2443d",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
 	  "level": 0,
 	  "iconName": "achm_221",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 4,
+	  "kpiBossLevel": 100,
 	  "jumpingLevel": 20,
-	  "kpiGameLevelShouldAppear": 4,
+	  "kpiGameLevelShouldAppear": 100,
 	  "ordered": [
 		{
 		  "progressTitleCode": 99,
@@ -44,15 +46,16 @@
 	},
 	{
 	  "id": "2450d6ee-ad2b-44a6-802e-637bb73e08ed",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
 	  "level": 1,
 	  "iconName": "achm_221",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 9,
+	  "kpiBossLevel": 150,
 	  "jumpingLevel": 50,
-	  "kpiGameLevelShouldAppear": 9,
+	  "kpiGameLevelShouldAppear": 150,
 	  "ordered": [
 		{
 		  "progressTitleCode": 99,

@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "16139f5b-56ad-414a-8bd6-9ceaabfbd19e",
+	  "type": "hero_reach_rank",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

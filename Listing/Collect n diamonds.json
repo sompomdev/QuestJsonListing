@@ -1,6 +1,7 @@
 [
     {
         "id": "eec93c87-fe1b-4414-a394-4ac6a809d401",
+        "type": "collect_diamond",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
@@ -9,7 +10,7 @@
         "dynamicAvailable": -1,
         "kpiBossLevel": 10,
         "jumpingLevel": 20,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiGameLevelShouldAppear": 10,
         "ordered": [
             {
                 "progressTitleCode": 41,

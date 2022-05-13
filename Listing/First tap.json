@@ -1,6 +1,8 @@
 [
     {
         "id": "7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0",
+        "type": "tap",
+        "forcePriority": 2,
         "skippable": false,
         "skipPrice": 5,
         "iconName": "achm_221",

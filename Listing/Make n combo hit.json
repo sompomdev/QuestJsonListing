@@ -1,21 +1,22 @@
 [
 	{
 	  "id": "c82f5a88-5789-47b5-ba8f-683f7d105d93",
+	  "type": "math3",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
 	  "level": 1,
 	  "iconName": "achm_221",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 2,
-	  "jumpingLevel": 10,
-	  "kpiGameLevelShouldAppear": 2,
+	  "kpiBossLevel": 30,
+	  "jumpingLevel": 20,
+	  "kpiGameLevelShouldAppear": 28,
 	  "ordered": [
 		{
 		  "progressTitleCode": 51,
 		  "eventName": "matchCombo",
 		  "progressType": "count_by_one",
-		  "target": 6
+		  "target": 3
 		}
 	  ],
 	  "concurrent": []

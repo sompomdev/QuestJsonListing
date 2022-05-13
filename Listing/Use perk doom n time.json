@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "68210f68-1fec-4ddd-a43b-e8eaf38e805c",
+	  "type": "perk",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

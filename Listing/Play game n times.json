@@ -1,14 +1,16 @@
 [
     {
         "id": "97e9eed8-a0b2-4b1b-b6e7-3604b2df182d",
+        "type": "game_launched",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 8,
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 2,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiBossLevel": 20,
+        "jumpingLevel":60,
+        "kpiGameLevelShouldAppear": 15,
         "ordered": [
             {
                 "progressTitleCode": 30,
