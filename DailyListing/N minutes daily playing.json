@@ -1,0 +1,19 @@
+[
+	{
+	  "id": "a07e2267-5037-4667-9c08-1c446bcc4a1c",
+	  "isDaily": true,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 9,
+	  "jumpingLevel": 10,
+	  "ordered": [
+		{
+		  "progressTitleCode": 56,
+		  "eventName": "playingTime",
+		  "progressType": "count_by_minute",
+		  "target": 2
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
