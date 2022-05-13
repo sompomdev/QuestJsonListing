@@ -1,15 +1,16 @@
 [
 	{
 	  "id": "d798bd0a-1608-4bb5-b2f4-1527e11d9f71",
+	  "type": "pass_boss",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,
 	  "level": 1,
 	  "iconName": "achm_221",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 5,
+	  "kpiBossLevel": 20,
 	  "jumpingLevel": 40,
-	  "kpiGameLevelShouldAppear": 1,
+	  "kpiGameLevelShouldAppear": 11,
 	  "ordered": [
 		{
 		  "progressTitleCode": 26,

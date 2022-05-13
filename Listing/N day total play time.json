@@ -1,6 +1,7 @@
 [
     {
         "id": "1c9aa4ef-a649-423b-972e-847995e787d8",
+        "type": "play_time",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
@@ -8,20 +9,21 @@
         "iconName": "achm_221",
         "dynamicAvailable": -1,
         "kpiBossLevel": 23,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiGameLevelShouldAppear": 10,
         "jumpingLevel":50,
         "ordered": [
             {
                 "progressTitleCode": 54,
                 "eventName": "playingTime",
                 "progressType": "count_by_minute",
-                "target": 5
+                "target": 3
             }
         ],
         "concurrent": []
     },
     {
         "id": "198af832-577d-4d4a-afd6-dfaa4c2639fa",
+        "type": "play_time",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
@@ -29,7 +31,7 @@
         "iconName": "achm_221",
         "dynamicAvailable": -1,
         "kpiBossLevel": 276,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiGameLevelShouldAppear": 200,
         "jumpingLevel":300,
         "ordered": [
             {
@@ -43,6 +45,7 @@
     },
     {
         "id": "15432b4d-5622-4a8c-a20d-9dec67479ce2",
+        "type": "play_time",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,
@@ -50,7 +53,7 @@
         "iconName": "achm_221",
         "dynamicAvailable": -1,
         "kpiBossLevel": 6646,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiGameLevelShouldAppear": 6600,
         "jumpingLevel":7000,
         "ordered": [
             {

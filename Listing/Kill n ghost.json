@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "efc8fd67-9d97-439b-90ba-c82547114056",
+	  "type": "ghost",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 4,
@@ -15,7 +16,7 @@
 		  "progressTitleCode": 9,
 		  "eventName": "killGhost",
 		  "progressType": "count_by_one",
-		  "target": 5
+		  "target": 3
 		}
 	  ],
 	  "concurrent": []

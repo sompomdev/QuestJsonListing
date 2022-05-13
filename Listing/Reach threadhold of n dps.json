@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "ce22f359-69fd-4f73-8848-4cced2be6f4c",
+	  "type": "dps",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

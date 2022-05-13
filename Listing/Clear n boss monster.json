@@ -1,6 +1,7 @@
 [
     {
         "id": "2341a9e4-27fd-4d9e-bc99-e68a3c067550",
+        "type": "pass_boss",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 5,

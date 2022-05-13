@@ -1,15 +1,16 @@
 [
 	{
 	  "id": "8f4df756-f24c-4150-b7e0-790010e885f8",
+	  "type": "tap",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 3,
 	  "level": 1,
 	  "iconName": "achm_528",
 	  "dynamicAvailable": -1,
-	  "kpiBossLevel": 1,
-	  "jumpingLevel": 2,
-	  "kpiGameLevelShouldAppear": 1,
+	  "kpiBossLevel": 2,
+	  "jumpingLevel": 20,
+	  "kpiGameLevelShouldAppear": 2,
 	  "ordered": [
 		{
 		  "progressTitleCode": 1,

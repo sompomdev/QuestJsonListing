@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "5e2a9187-55b1-4eb8-bc5f-c416ebfe96e8",
+	  "type": "passive_skill",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

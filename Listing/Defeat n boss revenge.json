@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "47f01240-c954-4f0d-9af9-51074faf86cb",
+	  "type": "revenge_boss",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 6,
@@ -15,7 +16,7 @@
 		  "progressTitleCode": 11,
 		  "eventName": "defeatBossRevenge",
 		  "progressType": "count_by_one",
-		  "target": 2
+		  "target": 1
 		}
 	  ],
 	  "concurrent": []

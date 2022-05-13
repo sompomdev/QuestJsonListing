@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "aa11143e-1f92-4817-a4ec-d4d6b7ef9dcf",
+	  "type": "bird",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

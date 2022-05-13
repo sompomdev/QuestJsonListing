@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "1605a74b-f140-4357-850f-be8709f9526c",
+	  "type": "power_up",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

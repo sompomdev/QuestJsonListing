@@ -1,6 +1,7 @@
 [
     {
         "id": "7fd2600c-0356-478e-8c15-b073e8a421f8",
+        "type": "team",
         "skippable": true,
         "isDynamic": false,
         "skipPrice": 8,
@@ -8,7 +9,7 @@
         "iconName": "achm_508",
         "dynamicAvailable": 0,
         "kpiBossLevel": 26,
-        "kpiGameLevelShouldAppear": 10,
+        "kpiGameLevelShouldAppear": 22,
         "ordered": [
             {
                 "progressTitleCode": 35,

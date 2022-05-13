@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "d907621f-0dc0-462c-ac3a-bd2742323e5c",
+	  "type": "ads",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 8,

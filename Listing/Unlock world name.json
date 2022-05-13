@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "ff987382-dfb4-474c-82fc-cffb494d944b",
+	  "type": "world",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,
@@ -9,7 +10,8 @@
 	  "dynamicAvailable": -1,
 	  "kpiBossLevel": 10,
 	  "jumpingLevel": 10,
-	  "kpiGameLevelShouldAppear": 7,
+	  "kpiGameLevelShouldAppear": 8,
+	  "forcePriority": 2,
 	  "ordered": [
 		{
 		  "progressTitleCode": 115,

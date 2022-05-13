@@ -1,34 +1,16 @@
 [
     {
-        "id": "63209fff-2251-42b7-aed3-e1bc6e7d8147",
-        "skippable": true,
-        "isDynamic": false,
-        "skipPrice": 8,
-        "level": 1,
-        "iconName": "achm_508",
-        "dynamicAvailable": 0,
-        "kpiGameLevelReward": 48,
-        "kpiGameLevelShouldAppear": 1,
-        "ordered": [
-            {
-                "progressTitleCode": 38,
-                "eventName": "unlockPowerUp",
-                "progressType": "check_reach",
-                "target": 1
-            }
-        ],
-        "concurrent": []
-    },
-    {
         "id": "eff6b9f6-b726-4cdb-951c-1fbc4becebf0",
+        "type": "power_up",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 8,
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 96,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiBossLevel": 96,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 90,
         "ordered": [
             {
                 "progressTitleCode": 63,

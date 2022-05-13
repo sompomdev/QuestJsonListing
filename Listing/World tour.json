@@ -1,14 +1,16 @@
 [
     {
         "id": "bbef5678-1f71-464c-be56-650761694c97",
+        "type": "world",
+        "forcePriority": 1,
         "skippable": true,
         "isDynamic": false,
         "skipPrice": 8,
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": 0,
-        "kpiGameLevelReward": 1020,
-        "kpiGameLevelShouldAppear": 1,
+        "kpiBossLevel": 1020,
+        "kpiGameLevelShouldAppear": 1011,
         "ordered": [
             {
                 "progressTitleCode": 36,
@@ -22,13 +24,15 @@
     },
     {
         "id": "7e0a58cd-cf2a-42ea-a311-cc9ec0e505a3",
+        "type": "world",
         "skippable": true,
         "isDynamic": true,
         "skipPrice": 8,
         "level": 1,
         "iconName": "achm_508",
         "dynamicAvailable": -1,
-        "kpiGameLevelReward": 2040,
+        "kpiBossLevel": 2040,
+        "jumpingLevel":1020,
         "kpiGameLevelShouldAppear": 1020,
         "ordered": [
             {

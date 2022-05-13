@@ -1,6 +1,7 @@
 [
   {
     "id": "bb1e71bd-2bf4-4e05-82c4-a66854bfa292",
+    "type": "game_level",
     "skippable": true,
     "isDynamic": true,
     "skipPrice": 5,
@@ -15,7 +16,7 @@
         "progressTitleCode": 43,
         "eventName": "completeStage",
         "progressType": "count_by_one",
-        "target": 5
+        "target": 3
       }
     ],
     "concurrent": []
