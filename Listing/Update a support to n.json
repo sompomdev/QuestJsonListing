@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "b530603b-e175-45d9-811b-da40edfb2933",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "dynamicAvailable": -1,
+	  "kpiGameLevelShouldAppear": 10,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 11,
+	  "jumpingLevel": 40,
+	  "ordered": [
+		{
+		  "progressTitleCode": 77,
+		  "eventName": "supportUpdateLevel",
+		  "progressType": "check_reach",
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
