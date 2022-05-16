@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "e621a18f-9c88-43d9-84d7-33e3207ab726",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 8,
+	  "dynamicAvailable": -1,
+	  "kpiGameLevelShouldAppear": 2,
+	  "level": 1,
+	  "iconName": "orange_070",
+	  "kpiBossLevel": 4,
+	  "jumpingLevel": 40,
+	  "ordered": [
+		{
+		  "progressTitleCode": 7,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "check_reach",
+		  "target": 5
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
