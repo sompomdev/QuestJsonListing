@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "f2646313-345e-4522-8249-de94deedced6",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "dynamicAvailable": -1,
+	  "kpiGameLevelShouldAppear": 5,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 5,
+	  "jumpingLevel": 15,
+	  "ordered": [
+		{
+		  "progressTitleCode": 52,
+		  "eventName": "matchInRow",
+		  "progressType": "count_in_staying_boss",
+		  "target": 2,
+		  "target2": 3
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
