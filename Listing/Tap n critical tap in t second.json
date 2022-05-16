@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "05e285c7-b5b5-404c-9193-4f27a3bd7e6d",
+	  "skippable": true,
+	  "isDynamic": true,
+	  "skipPrice": 5,
+	  "dynamicAvailable": -1,
+	  "kpiGameLevelShouldAppear": 8,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 10,
+	  "jumpingLevel": 50,
+	  "ordered": [
+		{
+		  "progressTitleCode": 45,
+		  "eventName": "criticriticalTap",
+		  "progressType": "count_in_duration",
+		  "target": 2,
+		  "duration": 6
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
