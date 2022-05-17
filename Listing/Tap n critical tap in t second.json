@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "05e285c7-b5b5-404c-9193-4f27a3bd7e6d",
+	  "type": "tap",
 	  "skippable": true,
 	  "isDynamic": true,
 	  "skipPrice": 5,

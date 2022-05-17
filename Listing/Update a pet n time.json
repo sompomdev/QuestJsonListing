@@ -1,27 +1,5 @@
 [
 	{
-	  "id": "e3c482fd-21ea-4e47-9f14-987dbd993e36",
-	  "type": "update_pet",
-	  "skippable": true,
-	  "isDynamic": false,
-	  "skipPrice": 8,
-	  "level": 1,
-	  "iconName": "achm_508",
-	  "dynamicAvailable": 0,
-	  "kpiBossLevel": 10,
-	  "jumpingLevel": 0,
-	  "kpiGameLevelShouldAppear": 10,
-	  "ordered": [
-		{
-		  "progressTitleCode": 78,
-		  "eventName": "petUpdateLevel",
-		  "progressType": "count_by_one",
-		  "target": 1
-		}
-	  ],
-	  "concurrent": []
-	},
-	{
 	  "id": "681bec6d-d9fc-4ca4-b5f6-2d65f808a8dd",
 	  "type": "update_pet",
 	  "skippable": true,

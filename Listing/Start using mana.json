@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "2c478a7f-cebe-485c-919f-00d307df6e20",
+	  "type": "power_up",
 	  "skippable": false,
 	  "isDynamic": false,
 	  "skipPrice": 5,
