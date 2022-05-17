@@ -1,0 +1,19 @@
+{
+    "id": "136f42b0-2edf-48e3-b9d5-8f57b0a5023c",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "isDaily": true,
+    "level": 1,
+    "iconName": "achm_221",
+    "kpiBossLevel": 20,
+    "jumpingLevel": 30,
+    "ordered": [
+      {
+        "progressTitleCode": 23,
+        "eventName": "collectDiamondFromBird",
+        "progressType": "count_by_one",
+        "target": 2
+      }
+    ],
+    "concurrent": []
+  }

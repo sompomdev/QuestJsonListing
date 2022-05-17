@@ -1,0 +1,19 @@
+[{
+    "id": "fcbcb0be-b85b-49f3-93c7-1d21bd255d6d",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "isDaily": true,
+    "level": 1,
+    "iconName": "achm_528",
+    "kpiBossLevel": 2,
+    "jumpingLevel": 11,
+    "ordered": [
+      {
+        "progressTitleCode": 9,
+        "eventName": "killGhost",
+        "progressType": "count_by_one",
+        "target": 10
+      }
+    ],
+    "concurrent": []
+  }]

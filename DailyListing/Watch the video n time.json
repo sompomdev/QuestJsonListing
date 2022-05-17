@@ -1,0 +1,19 @@
+{
+    "id": "85c50fbd-b853-46a8-a7a7-0fc6415c7b02",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "isDaily": true,
+    "level": 1,
+    "iconName": "achm_508",
+    "kpiBossLevel": 23,
+    "jumpingLevel": 50,
+    "ordered": [
+      {
+        "progressTitleCode": 13,
+        "eventName": "watchTheVideo",
+        "progressType": "count_by_one",
+        "target": 1
+      }
+    ],
+    "concurrent": []
+  }

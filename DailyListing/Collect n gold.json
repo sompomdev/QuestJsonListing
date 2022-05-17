@@ -1,0 +1,19 @@
+[{
+    "id": "0f3ef27e-8b3d-4190-93eb-72355c4d37af",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "isDaily": true,
+    "level": 1,
+    "iconName": "achm_gold",
+    "kpiBossLevel": 33,
+    "jumpingLevel": 10,
+    "ordered": [
+      {
+        "progressTitleCode": 6,
+        "eventName": "collectGold",
+        "progressType": "count_by_one",
+        "bigTarget": 2
+      }
+    ],
+    "concurrent": []
+  }]

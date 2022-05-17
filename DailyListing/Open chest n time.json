@@ -1,0 +1,19 @@
+[{
+    "id": "90e53265-dcb2-410e-ba14-24db9cb97c6f",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "isDaily": true,
+    "level": 1,
+    "iconName": "achm_529",
+    "kpiBossLevel": 41,
+    "jumpingLevel": 25,
+    "ordered": [
+      {
+        "progressTitleCode": 12,
+        "eventName": "tapOnTheBird",
+        "progressType": "count_by_one",
+        "target": 5
+      }
+    ],
+    "concurrent": []
+  }]
