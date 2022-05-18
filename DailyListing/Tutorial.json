@@ -10,7 +10,6 @@
             "progressTitleCode": 6,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -28,7 +27,6 @@
             "progressTitleCode": 5,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -46,7 +44,6 @@
             "progressTitleCode": 4,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -64,7 +61,6 @@
             "progressTitleCode": 3,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -82,7 +78,6 @@
             "progressTitleCode": 2,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -100,7 +95,6 @@
             "progressTitleCode": 1,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
@@ -118,7 +112,6 @@
             "progressTitleCode": 0,
             "eventName": "tutorial",
             "target": 1,
-            "bigReward": 1,
             "progressType": "count_by_one"
           }
         ],
