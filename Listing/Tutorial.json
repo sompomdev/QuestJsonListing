@@ -5,6 +5,7 @@
         "tutorialNum": 7,
         "skipPrice": 5,
         "iconName": "achm_104",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 6,
@@ -23,6 +24,7 @@
         "skippable": false,
         "skipPrice": 5,
         "iconName": "achm_stage",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 5,
@@ -41,6 +43,7 @@
         "skippable": false,
         "skipPrice": 5,
         "iconName": "achm_424",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 4,
@@ -55,10 +58,11 @@
       {
         "id": "5a7335e4-974d-457c-8f50-f0eebbd3fd54",
         "type": "tutorial",
-        "tutorialNum": 4,
+        "tutorialNum": 20,
         "skippable": false,
         "skipPrice": 5,
         "iconName": "achm_324",
+        "kpiBossLevel": 8,
         "ordered": [
           {
             "progressTitleCode": 3,
@@ -77,6 +81,7 @@
         "skippable": false,
         "skipPrice": 5,
         "iconName": "achm_133",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 2,
@@ -95,6 +100,7 @@
         "skippable": false,
         "skipPrice": 5,
         "iconName": "orange_029",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 1,
@@ -113,6 +119,7 @@
         "skippable": false,
         "skipPrice": 5,
         "iconName": "orange_030",
+        "kpiBossLevel": 20,
         "ordered": [
           {
             "progressTitleCode": 0,
