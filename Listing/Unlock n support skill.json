@@ -1,0 +1,23 @@
+[
+	{
+	  "id": "e5be8224-b8c7-453f-8aaa-d038c5f4272f",
+	  "isDynamic": true,
+	  "dynamicAvailable": -1,
+	  "skippable": true,
+	  "skipPrice": 5,
+	  "kpiGameLevelShouldAppear": 29,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 34,
+	  "jumpingLevel": 25,
+	  "ordered": [
+		{
+		  "progressTitleCode": 48,
+		  "eventName": "unlockSkillSupport",
+		  "progressType": "count_by_one",
+		  "target": 3
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
