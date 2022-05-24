@@ -15,9 +15,9 @@
 		{
 		  "progressTitleCode": 95,
 		  "eventName": "unlockSkillSupport",
-		  "progressType": "count_support_evolve",
-		  "supportId": 1,
-		  "target": 1
+		  "progressType": "reach_support_evolve",
+		  "target": 1,
+		  "supportId": 1
 		}
 	  ],
 	  "concurrent": []

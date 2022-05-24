@@ -15,7 +15,7 @@
 		{
 		  "progressTitleCode": 78,
 		  "eventName": "petUpdateLevel",
-		  "progressType": "count_by_one",
+		  "progressType": "count_upgrade_a_pet_n_time",
 		  "target": 1
 		}
 	  ],
