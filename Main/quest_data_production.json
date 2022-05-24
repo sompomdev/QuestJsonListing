@@ -1,1 +1,3102 @@
-[{"id":"16139f5b-56ad-414a-8bd6-9ceaabfbd19e","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":624,"jumpingLevel":10000,"kpiGameLevelShouldAppear":502,"ordered":[{"progressTitleCode":112,"eventName":"heroUpdateLevel","progressType":"count_all_heroes_reach_rank","target":1}],"concurrent":[]},{"id":"bb1e71bd-2bf4-4e05-82c4-a66854bfa292","type":"game_level","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":9,"jumpingLevel":16,"kpiGameLevelShouldAppear":4,"ordered":[{"progressTitleCode":43,"eventName":"completeStage","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"2341a9e4-27fd-4d9e-bc99-e68a3c067550","type":"pass_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":2,"jumpingLevel":20,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":44,"eventName":"passBossFight","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"bc272a71-f72d-4460-ab49-46ae4b02a41e","type":"diamond_bird","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":100,"jumpingLevel":30,"kpiGameLevelShouldAppear":90,"ordered":[{"progressTitleCode":23,"eventName":"collectDiamondFromBird","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"2ebfdf17-1349-4b72-9887-0aa56fc7ddd8","type":"collect_gold","skippable":true,"isDynamic":true,"skipPrice":4,"level":1,"iconName":"achm_139","dynamicAvailable":-1,"kpiBossLevel":9,"jumpingLevel":10,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":6,"eventName":"collectGold","progressType":"count_by_one","target":0,"bigTarget":1}],"concurrent":[]},{"id":"eec93c87-fe1b-4414-a394-4ac6a809d401","type":"collect_diamond","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":10,"jumpingLevel":20,"kpiGameLevelShouldAppear":10,"ordered":[{"progressTitleCode":41,"eventName":"collectDiamond","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"960034f4-a1fc-4f0a-94e9-5d0773db3c43","type":"collect_gold","skippable":true,"isDynamic":true,"skipPrice":4,"level":1,"iconName":"achm_139","dynamicAvailable":-1,"kpiBossLevel":11,"jumpingLevel":20,"kpiGameLevelShouldAppear":10,"ordered":[{"progressTitleCode":15,"eventName":"collectGold","progressType":"count_in_duration","duration":60,"bigTarget":1}],"concurrent":[]},{"id":"302cd232-9e78-46a7-b5e4-043ea8aa830d","type":"unlock_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"orange_070","dynamicAvailable":39,"kpiBossLevel":10,"jumpingLevel":15,"kpiGameLevelShouldAppear":9,"ordered":[{"progressTitleCode":14,"eventName":"petUnlock","progressType":"check_reach","target":1}],"concurrent":[]},{"id":"4afe97aa-f82a-4301-8be7-de7fc9d7ec9d","type":"big_boss","forcePriority":1,"skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":9,"kpiGameLevelShouldAppear":9,"ordered":[{"progressTitleCode":76,"eventName":"collectZoneBossCrown","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"7b3a74b1-f995-48f1-a691-3b7dfd917e3a","type":"big_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":30,"jumpingLevel":20,"kpiGameLevelShouldAppear":10,"ordered":[{"progressTitleCode":73,"eventName":"collectZoneBossCrown","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"9ebabd53-e47e-4b63-8982-bd787002f2e5","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":96,"jumpingLevel":100,"kpiGameLevelShouldAppear":76,"ordered":[{"progressTitleCode":27,"eventName":"usePowerUp","progressType":"combine_power_up","target":2}],"concurrent":[]},{"id":"af5e8f05-d49f-447e-9522-3d814f3eb036","type":"game_launched","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":80,"jumpingLevel":500,"kpiGameLevelShouldAppear":80,"forcePriority":1,"ordered":[{"progressTitleCode":17,"eventName":"gameLaunched","progressType":"count_come_back_to_game_consecutive","target":2}],"concurrent":[]},{"id":"7fa100ef-f656-48f3-a7a5-dd5949e90c0a","type":"unlock_zone","forcePriority":2,"skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":10,"jumpingLevel":0,"kpiGameLevelShouldAppear":9,"ordered":[{"progressTitleCode":39,"eventName":"onUnlockNewZone","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"c2372ed5-55a3-4f7a-bfa0-b6f68f66fbe3","type":"unlock_zone","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":55,"jumpingLevel":30,"kpiGameLevelShouldAppear":34,"ordered":[{"progressTitleCode":40,"eventName":"onUnlockNewZone","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"e6ab73d4-e73a-4637-910b-b6643ef07b5f","type":"tap","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":200,"jumpingLevel":30,"kpiGameLevelShouldAppear":180,"ordered":[{"progressTitleCode":89,"eventName":"criticriticalTap","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"3e092d42-46da-451a-b370-9d361315f609","type":"battle_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"orange_035","dynamicAvailable":-1,"kpiBossLevel":5,"jumpingLevel":16,"kpiGameLevelShouldAppear":3,"ordered":[{"progressTitleCode":10,"eventName":"defeatBossBattle","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"47f01240-c954-4f0d-9af9-51074faf86cb","type":"revenge_boss","skippable":true,"isDynamic":true,"skipPrice":6,"level":1,"iconName":"orange_036","dynamicAvailable":-1,"kpiBossLevel":4,"jumpingLevel":16,"kpiGameLevelShouldAppear":2,"ordered":[{"progressTitleCode":11,"eventName":"defeatBossRevenge","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"e65dd591-721e-4dae-8957-abb6ebe48e8c","type":"failed_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":26,"jumpingLevel":100,"kpiGameLevelShouldAppear":25,"ordered":[{"progressTitleCode":74,"eventName":"failedBossFight","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0","type":"tap","forcePriority":2,"skippable":false,"skipPrice":5,"iconName":"achm_221","kpiBossLevel":1,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":0,"eventName":"tap","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"3c108949-7294-436a-8ab7-ef47f75295b5","type":"support","skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":26,"kpiGameLevelShouldAppear":21,"ordered":[{"progressTitleCode":32,"eventName":"unlockSupporter","progressType":"check_full_active_support_reach","target":-1}],"concurrent":[]},{"id":"6fb95e9d-d285-40be-8236-04ae0168c312","type":"support","skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":650,"kpiGameLevelShouldAppear":550,"ordered":[{"progressTitleCode":33,"eventName":"unlockSupporter","progressType":"check_full_flying_support_reach","target":-1}],"concurrent":[]},{"id":"aedbc674-8955-42ed-8d2b-3495859a3a24","type":"hero","skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":70,"kpiGameLevelShouldAppear":60,"ordered":[{"progressTitleCode":34,"eventName":"unlockHero","progressType":"check_full_hero_reach","target":-1}],"concurrent":[]},{"id":"022b940d-3487-405a-be95-5925ff843eca","type":"support","skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":650,"kpiGameLevelShouldAppear":550,"ordered":[{"progressTitleCode":31,"eventName":"unlockSupporter","progressType":"check_full_support_reach","target":-1}],"concurrent":[]},{"id":"7fd2600c-0356-478e-8c15-b073e8a421f8","type":"team","skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":26,"kpiGameLevelShouldAppear":22,"ordered":[{"progressTitleCode":35,"eventName":"dynamic","progressType":"check_full_team_reach","target":-1}],"concurrent":[]},{"id":"5f16bc8c-3bce-4bc3-a338-fc07975c6c7b","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":1,"target":1}],"concurrent":[]},{"id":"bab1904b-67d4-4beb-8c3c-1cac081a4a80","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":2,"target":1}],"concurrent":[]},{"id":"1fd33a14-2d22-4ed4-9815-f43963e32146","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":3,"target":1}],"concurrent":[]},{"id":"7e400473-425d-4d0b-84ed-1fd5ff39a618","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":4,"target":1}],"concurrent":[]},{"id":"e45e0d36-5f01-4224-a481-b5b6441f8aef","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":5,"target":1}],"concurrent":[]},{"id":"ca7fafca-59e3-46e8-b6db-7d01a253beac","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":6,"target":1}],"concurrent":[]},{"id":"de752342-d632-4746-8e15-a674583a66d2","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":8,"target":1}],"concurrent":[]},{"id":"4df490f4-6804-4d63-8ae1-2d1f627f1aae","type":"hero_reach_rank","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":4,"kpiBossLevel":613,"jumpingLevel":1000,"kpiGameLevelShouldAppear":563,"ordered":[{"progressTitleCode":96,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","heroId":9,"target":1}],"concurrent":[]},{"id":"a404f8fe-b91a-4cd6-886d-7de4d19df84b","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":8,"kpiBossLevel":10,"jumpingLevel":10,"kpiGameLevelShouldAppear":10,"ordered":[{"progressTitleCode":16,"eventName":"unlockHero","progressType":"check_reach","target":2}],"concurrent":[]},{"id":"20035ae1-8ce7-4eee-9234-521524f127cf","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_stage","dynamicAvailable":-1,"kpiBossLevel":12,"jumpingLevel":20,"kpiGameLevelShouldAppear":9,"ordered":[{"progressTitleCode":5,"eventName":"unlockSupporter","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"efc8fd67-9d97-439b-90ba-c82547114056","type":"ghost","skippable":true,"isDynamic":true,"skipPrice":4,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":1,"jumpingLevel":11,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":9,"eventName":"killGhost","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"3906e1c5-c8f9-4506-8c07-4707bc733e8e","type":"big_boss","skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":10,"jumpingLevel":0,"kpiGameLevelShouldAppear":9,"forcePriority":2,"ordered":[{"progressTitleCode":114,"eventName":"defeatBigBoss","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"3906e1c5-c8f9-4506-8c07-4707bc733e8e","type":"big_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":20,"jumpingLevel":18,"kpiGameLevelShouldAppear":18,"ordered":[{"progressTitleCode":114,"eventName":"defeatBigBoss","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"083d1d66-8818-4508-9402-dca739f86983","type":"battle_boss","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":3,"jumpingLevel":20,"kpiGameLevelShouldAppear":3,"ordered":[{"progressTitleCode":113,"eventName":"defeatBossBattle","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"dddde071-2539-4375-91ef-cce859569061","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":4,"jumpingLevel":30,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":46,"eventName":"heroUpdateLevel","progressType":"count_by_one","target":5}],"concurrent":[]},{"id":"84ad457d-0efe-464a-94b2-ddfcc6556161","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":18,"jumpingLevel":40,"kpiGameLevelShouldAppear":18,"ordered":[{"progressTitleCode":47,"eventName":"supportUpdateLevel","progressType":"count_by_one","target":5}],"concurrent":[]},{"id":"90b2cba7-a064-459b-8caf-e3369583b886","type":"update_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":1000,"jumpingLevel":1000,"kpiGameLevelShouldAppear":950,"ordered":[{"progressTitleCode":110,"eventName":"petUpdateLevel","progressType":"count_by_one","petId":1,"target":1}],"concurrent":[]},{"id":"976160fe-4a3b-44c9-b100-eea21a3dc266","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":19,"jumpingLevel":50,"kpiGameLevelShouldAppear":18,"ordered":[{"progressTitleCode":109,"eventName":"supportUpdateLevel","progressType":"count_by_one","supportId":1,"target":2}],"concurrent":[]},{"id":"b3dc258c-abc1-4cff-9210-38facb2b00c5","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":50,"jumpingLevel":20,"kpiGameLevelShouldAppear":50,"ordered":[{"progressTitleCode":99,"eventName":"matchCombo","progressType":"count_match_combo_by_boss_type","bossType":1,"target":6}],"concurrent":[]},{"id":"dc87e098-8353-414f-91e9-a32088c2443d","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":0,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":100,"jumpingLevel":20,"kpiGameLevelShouldAppear":100,"ordered":[{"progressTitleCode":99,"eventName":"matchCombo","progressType":"count_match_combo_by_boss_type","target":6}],"concurrent":[]},{"id":"2450d6ee-ad2b-44a6-802e-637bb73e08ed","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":150,"jumpingLevel":50,"kpiGameLevelShouldAppear":150,"ordered":[{"progressTitleCode":99,"eventName":"matchCombo","progressType":"count_match_combo_by_boss_type","bossType":2,"target":6}],"concurrent":[]},{"id":"c82f5a88-5789-47b5-ba8f-683f7d105d93","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":30,"jumpingLevel":20,"kpiGameLevelShouldAppear":28,"ordered":[{"progressTitleCode":51,"eventName":"matchCombo","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"9578bbb4-e712-45a9-8023-9d80b6afd6d0","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":25,"jumpingLevel":1150,"kpiGameLevelShouldAppear":24,"ordered":[{"progressTitleCode":24,"eventName":"makeHeroResurrection","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"14ca15a0-1a36-40c0-8bce-d8b1dd671ff8","type":"quest","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":7,"jumpingLevel":30,"kpiGameLevelShouldAppear":3,"ordered":[{"progressTitleCode":104,"eventName":"onCompletedQuest","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"4b852055-a1c0-419f-8f9c-44d5e6870966","type":"support","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":502,"jumpingLevel":80,"kpiGameLevelShouldAppear":500,"ordered":[{"progressTitleCode":25,"eventName":"makeSupportResurrection","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"1c9aa4ef-a649-423b-972e-847995e787d8","type":"play_time","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":23,"kpiGameLevelShouldAppear":10,"jumpingLevel":50,"ordered":[{"progressTitleCode":54,"eventName":"playingTime","progressType":"count_by_minute","target":3}],"concurrent":[]},{"id":"198af832-577d-4d4a-afd6-dfaa4c2639fa","type":"play_time","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":276,"kpiGameLevelShouldAppear":200,"jumpingLevel":300,"ordered":[{"progressTitleCode":81,"eventName":"playingTime","progressType":"count_by_hour","target":1}],"concurrent":[]},{"id":"15432b4d-5622-4a8c-a20d-9dec67479ce2","type":"play_time","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":6646,"kpiGameLevelShouldAppear":6600,"jumpingLevel":7000,"ordered":[{"progressTitleCode":82,"eventName":"playingTime","progressType":"count_by_day","target":1}],"concurrent":[]},{"id":"aa11143e-1f92-4817-a4ec-d4d6b7ef9dcf","type":"bird","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_529","dynamicAvailable":-1,"kpiBossLevel":110,"jumpingLevel":1000,"kpiGameLevelShouldAppear":30,"ordered":[{"progressTitleCode":75,"eventName":"tapOnTheBird","progressType":"count_by_one_one_week_limit","target":15}],"concurrent":[]},{"id":"7b0429dd-bc9b-413e-8d2f-b7b65eeb27ed","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":10,"kpiBossLevel":68,"jumpingLevel":200,"kpiGameLevelShouldAppear":50,"ordered":[{"progressTitleCode":64,"eventName":"unlockPowerUp","progressType":"count_unlock_powerup_and_use_it","target":1}],"concurrent":[]},{"id":"63209fff-2251-42b7-aed3-e1bc6e7d8147","type":"power_up","forcePriority":1,"skippable":false,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":48,"jumpingLevel":0,"kpiGameLevelShouldAppear":43,"ordered":[{"progressTitleCode":38,"eventName":"unlockPowerUp","progressType":"check_reach","target":1}],"concurrent":[]},{"id":"f609c95d-0834-487f-9145-9777322698f6","type":"bird","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_529","dynamicAvailable":-1,"kpiBossLevel":20,"jumpingLevel":25,"kpiGameLevelShouldAppear":15,"ordered":[{"progressTitleCode":12,"eventName":"tapOnTheBird","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"d798bd0a-1608-4bb5-b2f4-1527e11d9f71","type":"pass_boss","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":20,"jumpingLevel":40,"kpiGameLevelShouldAppear":11,"ordered":[{"progressTitleCode":26,"eventName":"passBossFight","progressType":"count_pass_boss_fight_consecutive","target":5}],"concurrent":[]},{"id":"97e9eed8-a0b2-4b1b-b6e7-3604b2df182d","type":"game_launched","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":20,"jumpingLevel":60,"kpiGameLevelShouldAppear":15,"ordered":[{"progressTitleCode":30,"eventName":"gameLaunched","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"ef871708-e031-4109-955d-98c12cc5d983","type":"master_mind","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":72,"jumpingLevel":830,"kpiGameLevelShouldAppear":48,"ordered":[{"progressTitleCode":103,"eventName":"playMasterMind","progressType":"count_by_one_one_day_limit","target":25}],"concurrent":[]},{"id":"b035eda8-d018-4863-8dc7-b3c313bc6f0e","type":"master_mind","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":28,"jumpingLevel":25,"kpiGameLevelShouldAppear":28,"ordered":[{"progressTitleCode":100,"eventName":"playMasterMind","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"82cc2abe-317f-4124-8edf-e01061514601","type":"game_launched","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":1661,"jumpingLevel":4153,"kpiGameLevelShouldAppear":831,"ordered":[{"progressTitleCode":28,"eventName":"gameLaunched","progressType":"play_game_on_the_weekend","target":1}],"concurrent":[]},{"id":"f3aeec3d-4259-4ddd-bd6a-0d98e25579b5","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":617,"jumpingLevel":10,"kpiGameLevelShouldAppear":607,"ordered":[{"progressTitleCode":69,"eventName":"heroUpdateLevel","progressType":"check_n_hero_reach_rank","target":2,"target2":1}],"concurrent":[]},{"id":"e238eb39-85d5-46a1-a77b-7e369e89f52c","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":20251,"jumpingLevel":30,"kpiGameLevelShouldAppear":20221,"ordered":[{"progressTitleCode":71,"eventName":"heroUpdateLevel","progressType":"check_n_hero_reach_rank","target":2,"target2":3}],"concurrent":[]},{"id":"6d3853de-4122-453e-83df-1fddf9224ce3","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":30372,"jumpingLevel":40,"kpiGameLevelShouldAppear":30332,"ordered":[{"progressTitleCode":72,"eventName":"heroUpdateLevel","progressType":"check_n_hero_reach_rank","target":2,"target2":4}],"concurrent":[]},{"id":"096a8a3f-3905-4775-822f-3d11de70a79a","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":10129,"jumpingLevel":20,"kpiGameLevelShouldAppear":10109,"ordered":[{"progressTitleCode":70,"eventName":"heroUpdateLevel","progressType":"check_n_hero_reach_rank","target":2,"target2":2}],"concurrent":[]},{"id":"6d24e5ad-94cd-4724-8a77-2bd50b0bd558","type":"hero","skippable":true,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":613,"jumpingLevel":0,"kpiGameLevelShouldAppear":588,"ordered":[{"progressTitleCode":65,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","target":1}],"concurrent":[]},{"id":"cfda62be-cdd0-4878-b360-057ab83d14d7","type":"hero","skippable":true,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":20246,"jumpingLevel":0,"kpiGameLevelShouldAppear":20221,"ordered":[{"progressTitleCode":67,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","target":3}],"concurrent":[]},{"id":"9ae51f8e-17b6-49cb-98e5-1cd63ccb1233","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":30367,"jumpingLevel":0,"kpiGameLevelShouldAppear":30342,"ordered":[{"progressTitleCode":68,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","target":4}],"concurrent":[]},{"id":"716e4867-c04d-4a7a-bcf9-760be9f13489","type":"hero","skippable":true,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":10124,"jumpingLevel":0,"kpiGameLevelShouldAppear":10099,"ordered":[{"progressTitleCode":66,"eventName":"heroUpdateLevel","progressType":"hero_reach_rank","target":2}],"concurrent":[]},{"id":"06f79ed0-51ec-42ae-ba1c-60b36c11f834","type":"master_mind","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":32,"jumpingLevel":35,"kpiGameLevelShouldAppear":32,"ordered":[{"progressTitleCode":101,"eventName":"onMasterMindInArow","progressType":"check_reach","target":2}],"concurrent":[]},{"id":"d37ad18b-a766-4e81-806c-bf9fc6cb55a3","type":"game_level","skippable":true,"isDynamic":true,"skipPrice":3,"level":1,"iconName":"achm_529","dynamicAvailable":-1,"kpiBossLevel":7,"jumpingLevel":20,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":8,"eventName":"reachStage","progressType":"check_reach","target":7}],"concurrent":[]},{"id":"4abe7667-b905-4c3b-adbd-fc6ec9fb4b51","type":"game_level","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":13,"jumpingLevel":30,"kpiGameLevelShouldAppear":8,"ordered":[{"progressTitleCode":42,"eventName":"completeStage","progressType":"check_reach","target":13}],"concurrent":[]},{"id":"ce22f359-69fd-4f73-8848-4cced2be6f4c","type":"dps","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":17,"jumpingLevel":20,"kpiGameLevelShouldAppear":12,"ordered":[{"progressTitleCode":94,"eventName":"refreshCurrentDps","progressType":"check_reach","bigTarget":1}],"concurrent":[]},{"id":"5e2a9187-55b1-4eb8-bc5f-c416ebfe96e8","type":"passive_skill","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":235,"jumpingLevel":235,"kpiGameLevelShouldAppear":230,"ordered":[{"progressTitleCode":93,"eventName":"updateGhostRoundReduced","progressType":"check_reach","target":1}],"concurrent":[]},{"id":"24450ed0-2ead-4753-b396-ef2dcd9fc2b4","type":"hero","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":552,"jumpingLevel":250,"kpiGameLevelShouldAppear":521,"ordered":[{"progressTitleCode":116,"eventName":"makeResurrection","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"3948c4fc-96b5-41f9-9c06-8376cdac5c16","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":251,"jumpingLevel":300,"kpiGameLevelShouldAppear":200,"ordered":[{"progressTitleCode":107,"eventName":"makeHeroResurrection","progressType":"count_revive_a_character","target":1}],"concurrent":[]},{"id":"8224ed62-3732-47a2-a3d7-aa299c74beb8","type":"support","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":501,"jumpingLevel":100,"kpiGameLevelShouldAppear":492,"ordered":[{"progressTitleCode":106,"eventName":"makeSupportResurrection","progressType":"count_revive_a_character","target":1}],"concurrent":[]},{"id":"2cac4319-c1ca-4f0d-b1be-a67d40f86cf0","type":"social_share","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":50,"jumpingLevel":150,"kpiGameLevelShouldAppear":49,"ordered":[{"progressTitleCode":83,"eventName":"shareToFacebook","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"b5aa330d-5f0a-47d0-a883-939e7befd6cf","type":"social_share","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":40,"jumpingLevel":150,"kpiGameLevelShouldAppear":39,"ordered":[{"progressTitleCode":84,"eventName":"shareToTwitter","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"2c478a7f-cebe-485c-919f-00d307df6e20","type":"power_up","skippable":false,"isDynamic":false,"skipPrice":5,"dynamicAvailable":0,"kpiGameLevelShouldAppear":43,"level":1,"iconName":"achm_221","kpiBossLevel":48,"jumpingLevel":0,"ordered":[{"progressTitleCode":50,"eventName":"usePowerUp","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"f2646313-345e-4522-8249-de94deedced6","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":5,"level":1,"iconName":"achm_221","kpiBossLevel":5,"jumpingLevel":15,"ordered":[{"progressTitleCode":52,"eventName":"matchInRow","progressType":"count_in_staying_boss","target":2,"target2":3}],"concurrent":[]},{"id":"0e9c84ae-d1dd-422e-8162-d31b5821eaa7","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":3,"level":1,"iconName":"achm_221","kpiBossLevel":3,"jumpingLevel":10,"ordered":[{"progressTitleCode":80,"eventName":"matchInAll","progressType":"count_in_staying_boss","target":2,"target2":3}],"concurrent":[]},{"id":"4cd8b3dd-ad90-42b2-bd60-6f65cda25814","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":7,"level":1,"iconName":"achm_221","kpiBossLevel":7,"jumpingLevel":15,"ordered":[{"progressTitleCode":53,"eventName":"matchInCol","progressType":"count_in_staying_boss","target":2,"target2":3}],"concurrent":[]},{"id":"05e285c7-b5b5-404c-9193-4f27a3bd7e6d","type":"tap","skippable":true,"isDynamic":true,"skipPrice":5,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":8,"level":1,"iconName":"achm_221","kpiBossLevel":10,"jumpingLevel":50,"ordered":[{"progressTitleCode":45,"eventName":"criticriticalTap","progressType":"count_in_duration","target":2,"duration":6}],"concurrent":[]},{"id":"8f4df756-f24c-4150-b7e0-790010e885f8","type":"tap","skippable":true,"isDynamic":true,"skipPrice":3,"level":1,"iconName":"achm_528","dynamicAvailable":-1,"kpiBossLevel":2,"jumpingLevel":20,"kpiGameLevelShouldAppear":2,"ordered":[{"progressTitleCode":1,"eventName":"tap","progressType":"count_in_duration","target":5,"duration":4}],"concurrent":[]},{"id":"bd3303aa-ac0a-4fb6-9a77-c2963d9fc7a9","type":"tap","skippable":true,"isDynamic":true,"skipPrice":3,"level":1,"iconName":"achm_gold","dynamicAvailable":-1,"kpiBossLevel":1,"jumpingLevel":10,"kpiGameLevelShouldAppear":1,"ordered":[{"progressTitleCode":2,"eventName":"tap","progressType":"count_by_one","target":20}],"concurrent":[]},{"id":"df080cb5-1e84-4d52-9fef-710b969bcc62","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":8,"kpiBossLevel":101,"jumpingLevel":100,"kpiGameLevelShouldAppear":81,"ordered":[{"progressTitleCode":62,"eventName":"updatePowerUp","progressType":"count_update_powerup_each_hero","target":2}],"concurrent":[]},{"id":"2b263bc9-6d94-490a-b9b0-51e7690438ab","type":"tutorial","tutorialNum":7,"skipPrice":5,"iconName":"achm_104","kpiBossLevel":20,"ordered":[{"progressTitleCode":6,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"20035ae1-8ce7-4eee-9234-521524f127cf","type":"tutorial","tutorialNum":6,"skippable":false,"skipPrice":5,"iconName":"achm_stage","kpiBossLevel":20,"ordered":[{"progressTitleCode":5,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"afa56c0c-1c0a-48ca-842a-b5436cf5b9bc","type":"tutorial","tutorialNum":5,"skippable":false,"skipPrice":5,"iconName":"achm_424","kpiBossLevel":20,"ordered":[{"progressTitleCode":4,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"5a7335e4-974d-457c-8f50-f0eebbd3fd54","type":"tutorial","tutorialNum":20,"skippable":false,"skipPrice":5,"iconName":"achm_324","kpiBossLevel":8,"ordered":[{"progressTitleCode":3,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"1899a14f-799c-4c68-ba30-b6669ecc214d","type":"tutorial","tutorialNum":3,"skippable":false,"skipPrice":5,"iconName":"achm_133","kpiBossLevel":20,"ordered":[{"progressTitleCode":2,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"a2222718-6a76-4a12-9ae8-375124a684e7","type":"tutorial","tutorialNum":2,"skippable":false,"skipPrice":5,"iconName":"orange_029","kpiBossLevel":20,"ordered":[{"progressTitleCode":1,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"3784946a-e4d9-49e0-a078-ef26dc980149","type":"tutorial","tutorialNum":1,"skippable":false,"skipPrice":5,"iconName":"orange_030","kpiBossLevel":20,"ordered":[{"progressTitleCode":0,"eventName":"tutorial","target":1,"progressType":"count_by_one"}],"concurrent":[]},{"id":"94cb4626-d543-4bfc-8d99-b36982d18d8a","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":650,"jumpingLevel":1500,"kpiGameLevelShouldAppear":550,"ordered":[{"progressTitleCode":111,"eventName":"unlockSkillSupport","progressType":"count_all_supports_reach_evolve","target":1}],"concurrent":[]},{"id":"eff6b9f6-b726-4cdb-951c-1fbc4becebf0","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":96,"jumpingLevel":100,"kpiGameLevelShouldAppear":90,"ordered":[{"progressTitleCode":63,"eventName":"unlockPowerUp","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"e5be8224-b8c7-453f-8aaa-d038c5f4272f","isDynamic":true,"dynamicAvailable":-1,"skippable":true,"skipPrice":5,"kpiGameLevelShouldAppear":29,"level":1,"iconName":"achm_221","kpiBossLevel":34,"jumpingLevel":25,"ordered":[{"progressTitleCode":48,"eventName":"unlockSkillSupport","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"a51cd2d5-736c-403b-9664-062fa817176c","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":527,"jumpingLevel":1473,"kpiGameLevelShouldAppear":475,"ordered":[{"progressTitleCode":95,"eventName":"unlockSkillSupport","progressType":"reach_support_evolve","target":1,"supportId":1}],"concurrent":[]},{"id":"ff987382-dfb4-474c-82fc-cffb494d944b","type":"world","skippable":false,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":10,"jumpingLevel":10,"kpiGameLevelShouldAppear":9,"forcePriority":2,"ordered":[{"progressTitleCode":115,"eventName":"onUnlockNewZone","progressType":"check_match","target":2}],"concurrent":[]},{"id":"e621a18f-9c88-43d9-84d7-33e3207ab726","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":2,"level":1,"iconName":"orange_070","kpiBossLevel":4,"jumpingLevel":40,"ordered":[{"progressTitleCode":7,"eventName":"heroUpdateLevel","progressType":"check_reach","target":5}],"concurrent":[]},{"id":"681bec6d-d9fc-4ca4-b5f6-2d65f808a8dd","type":"update_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":25,"jumpingLevel":350,"kpiGameLevelShouldAppear":25,"ordered":[{"progressTitleCode":79,"eventName":"petUpdateLevel","progressType":"count_upgrade_a_pet_n_time","target":3}],"concurrent":[]},{"id":"e3c482fd-21ea-4e47-9f14-987dbd993e36","type":"update_pet","skippable":true,"isDynamic":false,"skipPrice":8,"dynamicAvailable":0,"kpiGameLevelShouldAppear":10,"level":1,"iconName":"achm_508","kpiBossLevel":10,"jumpingLevel":0,"ordered":[{"progressTitleCode":78,"eventName":"petUpdateLevel","progressType":"count_upgrade_a_pet_n_time","target":1}],"concurrent":[]},{"id":"b530603b-e175-45d9-811b-da40edfb2933","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":10,"level":1,"iconName":"achm_221","kpiBossLevel":11,"jumpingLevel":40,"ordered":[{"progressTitleCode":77,"eventName":"supportUpdateLevel","progressType":"check_reach","target":5}],"concurrent":[]},{"id":"0d50bd03-0322-40f4-9e4a-cd9bae167c90","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":70,"jumpingLevel":150,"kpiGameLevelShouldAppear":70,"ordered":[{"progressTitleCode":18,"eventName":"heroUpdateLevel","progressType":"check_n_hero_level_reach","target":-1,"target2":50}],"concurrent":[]},{"id":"01fcf719-4672-4f8c-a801-c66941d0185f","type":"update_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":3000,"jumpingLevel":1450,"kpiGameLevelShouldAppear":3000,"ordered":[{"progressTitleCode":19,"eventName":"petUpdateLevel","progressType":"check_n_pet_level_reach","target":-1,"target2":2}],"concurrent":[]},{"id":"fa80fe57-b115-4c9e-a2fc-a8bb85d530cf","type":"hero","skippable":true,"isDynamic":true,"skipPrice":8,"dynamicAvailable":-1,"kpiGameLevelShouldAppear":10,"level":1,"iconName":"achm_508","kpiBossLevel":10,"jumpingLevel":60,"ordered":[{"progressTitleCode":21,"eventName":"heroUpdateLevel","progressType":"check_n_hero_level_reach","target":2,"target2":5}],"concurrent":[]},{"id":"fe17c21c-7062-4620-be6e-243dd736b578","type":"update_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":39,"kpiBossLevel":20,"jumpingLevel":250,"kpiGameLevelShouldAppear":20,"ordered":[{"progressTitleCode":90,"eventName":"petUpdateLevel","progressType":"count_upgrade_n_pet","target":2}],"concurrent":[]},{"id":"fe9cc4ff-3666-4921-949b-dc7dfd777fcb","type":"update_pet","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":20,"jumpingLevel":100,"kpiGameLevelShouldAppear":20,"ordered":[{"progressTitleCode":20,"eventName":"petUpdateLevel","progressType":"check_n_pet_level_reach","target":2,"target2":2}],"concurrent":[]},{"id":"dec66176-80dc-4182-a144-b0db6448ce1f","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":101,"jumpingLevel":150,"kpiGameLevelShouldAppear":100,"ordered":[{"progressTitleCode":49,"eventName":"updatePowerUp","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"3642ac18-74c6-4613-958e-800ce75fa803","type":"support","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":860,"jumpingLevel":2500,"kpiGameLevelShouldAppear":782,"ordered":[{"progressTitleCode":97,"eventName":"supportUpdateLevel","progressType":"support_reach_rank","supportId":2,"target":1}],"concurrent":[]},{"id":"da1436f0-3b1c-47d0-ac1d-2aafe9659282","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":30,"jumpingLevel":15,"kpiGameLevelShouldAppear":29,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":0,"target":5}],"concurrent":[]},{"id":"00fae54e-35c6-48e8-a969-bf5a00ee867a","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":35,"jumpingLevel":15,"kpiGameLevelShouldAppear":34,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":1,"target":5}],"concurrent":[]},{"id":"930ed5a8-d0cb-452a-8ead-599b9e7eb967","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":40,"jumpingLevel":15,"kpiGameLevelShouldAppear":39,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":2,"target":5}],"concurrent":[]},{"id":"63a2d509-0d87-4225-9206-f68a4769f51b","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":45,"jumpingLevel":15,"kpiGameLevelShouldAppear":44,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":3,"target":5}],"concurrent":[]},{"id":"f19e09c6-6810-4fa0-acd1-2433c4a773be","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":50,"jumpingLevel":15,"kpiGameLevelShouldAppear":49,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":4,"target":5}],"concurrent":[]},{"id":"31e5644d-6ad2-451d-bf15-4c1979318eaf","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":55,"jumpingLevel":15,"kpiGameLevelShouldAppear":54,"ordered":[{"progressTitleCode":98,"eventName":"onFruitMatch","progressType":"count_fruit_match_by_color","fruitType":5,"target":5}],"concurrent":[]},{"id":"d444b105-323b-46f4-9eae-ea222adc2280","type":"perk","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":100,"jumpingLevel":1500,"kpiGameLevelShouldAppear":100,"ordered":[{"progressTitleCode":91,"eventName":"usePerk","progressType":"use_n_time_n_perk","target":1,"target2":1}],"concurrent":[]},{"id":"1605a74b-f140-4357-850f-be8709f9526c","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":101,"jumpingLevel":200,"kpiGameLevelShouldAppear":101,"ordered":[{"progressTitleCode":92,"eventName":"usePowerUp","progressType":"use_n_time_n_powerup","target":2,"target2":1}],"concurrent":[]},{"id":"68210f68-1fec-4ddd-a43b-e8eaf38e805c","type":"perk","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":1100,"jumpingLevel":1100,"kpiGameLevelShouldAppear":900,"ordered":[{"progressTitleCode":86,"eventName":"usePerkDoom","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"9fec3aa0-8c0b-4643-98c7-859ed0536164","type":"perk","skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":200,"jumpingLevel":0,"kpiGameLevelShouldAppear":200,"forcePriority":1,"ordered":[{"progressTitleCode":59,"eventName":"usePerkDoom","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"dd6b3b02-f55f-4a21-b5f9-558713f69d00","type":"perk","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":1100,"jumpingLevel":1000,"kpiGameLevelShouldAppear":950,"ordered":[{"progressTitleCode":85,"eventName":"usePerkMakeItRain","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"5990365a-35a1-4269-a614-a38becdab9e9","type":"perk","skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":150,"jumpingLevel":0,"kpiGameLevelShouldAppear":150,"forcePriority":1,"ordered":[{"progressTitleCode":58,"eventName":"usePerkMakeItRain","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"f40488a8-373a-45ae-a434-b755bc086e07","type":"perk","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":1100,"jumpingLevel":1200,"kpiGameLevelShouldAppear":898,"ordered":[{"progressTitleCode":88,"eventName":"usePerkManaPortion","progressType":"count_by_one","target":2}],"concurrent":[]},{"id":"4729bfed-ba4f-49fc-ab6a-20f989d492a5","type":"perk","skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":101,"jumpingLevel":0,"kpiGameLevelShouldAppear":101,"forcePriority":1,"ordered":[{"progressTitleCode":61,"eventName":"usePerkManaPortion","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"8b1ca2a8-6591-4318-8f4c-b36f07633f47","type":"perk","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":600,"jumpingLevel":550,"kpiGameLevelShouldAppear":550,"ordered":[{"progressTitleCode":87,"eventName":"usePerkPowerOfHolding","progressType":"count_by_one","target":3}],"concurrent":[]},{"id":"a7e43111-e062-46f1-b6a0-3bea44ea565f","type":"perk","skippable":false,"isDynamic":false,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":0,"kpiBossLevel":50,"jumpingLevel":0,"kpiGameLevelShouldAppear":50,"forcePriority":1,"ordered":[{"progressTitleCode":60,"eventName":"usePerkPowerOfHolding","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"10ab7c0c-46ad-49c7-a966-c862f2239bd0","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":101,"jumpingLevel":175,"kpiGameLevelShouldAppear":101,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"THUNDER_ATTACK","target":1}],"concurrent":[]},{"id":"6ad91c6d-df41-477c-85ae-2fbb1b4dad61","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":102,"jumpingLevel":175,"kpiGameLevelShouldAppear":102,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"TWIN_SHADOW","target":1}],"concurrent":[]},{"id":"591e7601-6345-4f38-862c-7b5e937d27d7","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":111,"jumpingLevel":175,"kpiGameLevelShouldAppear":111,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"THE_TEAMMATE","target":1}],"concurrent":[]},{"id":"acf6ea55-76ba-476e-ab79-8ad6c66425fa","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":247,"jumpingLevel":175,"kpiGameLevelShouldAppear":247,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"LAST_HAND","target":1}],"concurrent":[]},{"id":"c2590d94-e4ed-422b-9dd2-c5e9216761e4","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":370,"jumpingLevel":175,"kpiGameLevelShouldAppear":370,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"FAST_AND_FURIOUS","target":1}],"concurrent":[]},{"id":"6755e732-7223-4140-9414-f94215a144d7","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":493,"jumpingLevel":175,"kpiGameLevelShouldAppear":493,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"ANGER_OF_GOD","target":1}],"concurrent":[]},{"id":"4e6d072e-e8f7-45a9-917c-5660b3102050","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":617,"jumpingLevel":175,"kpiGameLevelShouldAppear":617,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"GOLD_FINGER","target":1}],"concurrent":[]},{"id":"c61b3851-123a-48fe-bcf4-e1a5b2fddab2","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":630,"jumpingLevel":175,"kpiGameLevelShouldAppear":630,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"ANGER_OF_PET","target":1}],"concurrent":[]},{"id":"f6d533d9-7b48-4f80-8fa8-b77b25abe955","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":643,"jumpingLevel":175,"kpiGameLevelShouldAppear":643,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"PROTECTION","target":1}],"concurrent":[]},{"id":"10c3f171-5fa4-47fc-858f-d9987d1db678","type":"power_up","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":657,"jumpingLevel":175,"kpiGameLevelShouldAppear":657,"ordered":[{"progressTitleCode":105,"eventName":"usePowerUp","progressType":"count_use_powerup_by_type","powerUpType":"FLYING_SUPPORT","target":1}],"concurrent":[]},{"id":"d907621f-0dc0-462c-ac3a-bd2742323e5c","type":"ads","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":23,"jumpingLevel":50,"kpiGameLevelShouldAppear":15,"ordered":[{"progressTitleCode":13,"eventName":"watchTheVideo","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"fdd308a2-b0ee-4093-b7ff-5c9f5793bd60","type":"math3","skippable":true,"isDynamic":true,"skipPrice":5,"level":1,"iconName":"achm_221","dynamicAvailable":-1,"kpiBossLevel":28,"jumpingLevel":30,"kpiGameLevelShouldAppear":28,"ordered":[{"progressTitleCode":102,"eventName":"onWinMasterMind","progressType":"count_by_one","target":1}],"concurrent":[]},{"id":"bbef5678-1f71-464c-be56-650761694c97","type":"world","forcePriority":1,"skippable":true,"isDynamic":false,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":0,"kpiBossLevel":1020,"kpiGameLevelShouldAppear":1011,"ordered":[{"progressTitleCode":36,"eventName":"gameWorldLoop","progressType":"check_reach","heroId":0,"target":1}],"concurrent":[]},{"id":"7e0a58cd-cf2a-42ea-a311-cc9ec0e505a3","type":"world","skippable":true,"isDynamic":true,"skipPrice":8,"level":1,"iconName":"achm_508","dynamicAvailable":-1,"kpiBossLevel":2040,"jumpingLevel":1020,"kpiGameLevelShouldAppear":1020,"ordered":[{"progressTitleCode":37,"eventName":"gameWorldLoop","progressType":"count_by_one","heroId":0,"target":1}],"concurrent":[]}]
+[
+    {
+        "id": "16139f5b-56ad-414a-8bd6-9ceaabfbd19e",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 624,
+        "jumpingLevel": 10000,
+        "kpiGameLevelShouldAppear": 502,
+        "ordered": [
+            {
+                "progressTitleCode": 112,
+                "eventName": "heroUpdateLevel",
+                "progressType": "count_all_heroes_reach_rank",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "bb1e71bd-2bf4-4e05-82c4-a66854bfa292",
+        "type": "game_level",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 9,
+        "jumpingLevel": 16,
+        "kpiGameLevelShouldAppear": 4,
+        "ordered": [
+            {
+                "progressTitleCode": 43,
+                "eventName": "completeStage",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2341a9e4-27fd-4d9e-bc99-e68a3c067550",
+        "type": "pass_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 2,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 44,
+                "eventName": "passBossFight",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "bc272a71-f72d-4460-ab49-46ae4b02a41e",
+        "type": "diamond_bird",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 100,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 90,
+        "ordered": [
+            {
+                "progressTitleCode": 23,
+                "eventName": "collectDiamondFromBird",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2ebfdf17-1349-4b72-9887-0aa56fc7ddd8",
+        "type": "collect_gold",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 4,
+        "level": 1,
+        "iconName": "achm_139",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 9,
+        "jumpingLevel": 10,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 6,
+                "eventName": "collectGold",
+                "progressType": "count_by_one",
+                "target": 0,
+                "bigTarget": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "eec93c87-fe1b-4414-a394-4ac6a809d401",
+        "type": "collect_diamond",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 10,
+        "ordered": [
+            {
+                "progressTitleCode": 41,
+                "eventName": "collectDiamond",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "960034f4-a1fc-4f0a-94e9-5d0773db3c43",
+        "type": "collect_gold",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 4,
+        "level": 1,
+        "iconName": "achm_139",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 11,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 10,
+        "ordered": [
+            {
+                "progressTitleCode": 15,
+                "eventName": "collectGold",
+                "progressType": "count_in_duration",
+                "duration": 60,
+                "bigTarget": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "302cd232-9e78-46a7-b5e4-043ea8aa830d",
+        "type": "unlock_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "orange_070",
+        "dynamicAvailable": 39,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 9,
+        "ordered": [
+            {
+                "progressTitleCode": 14,
+                "eventName": "petUnlock",
+                "progressType": "check_reach",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4afe97aa-f82a-4301-8be7-de7fc9d7ec9d",
+        "type": "big_boss",
+        "forcePriority": 1,
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 9,
+        "kpiGameLevelShouldAppear": 9,
+        "ordered": [
+            {
+                "progressTitleCode": 76,
+                "eventName": "collectZoneBossCrown",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7b3a74b1-f995-48f1-a691-3b7dfd917e3a",
+        "type": "big_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 30,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 10,
+        "ordered": [
+            {
+                "progressTitleCode": 73,
+                "eventName": "collectZoneBossCrown",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "9ebabd53-e47e-4b63-8982-bd787002f2e5",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 96,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 76,
+        "ordered": [
+            {
+                "progressTitleCode": 27,
+                "eventName": "usePowerUp",
+                "progressType": "combine_power_up",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "af5e8f05-d49f-447e-9522-3d814f3eb036",
+        "type": "game_launched",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 80,
+        "jumpingLevel": 500,
+        "kpiGameLevelShouldAppear": 80,
+        "forcePriority": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 17,
+                "eventName": "gameLaunched",
+                "progressType": "count_come_back_to_game_consecutive",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7fa100ef-f656-48f3-a7a5-dd5949e90c0a",
+        "type": "unlock_zone",
+        "forcePriority": 2,
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 9,
+        "ordered": [
+            {
+                "progressTitleCode": 39,
+                "eventName": "onUnlockNewZone",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "c2372ed5-55a3-4f7a-bfa0-b6f68f66fbe3",
+        "type": "unlock_zone",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 55,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 34,
+        "ordered": [
+            {
+                "progressTitleCode": 40,
+                "eventName": "onUnlockNewZone",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e6ab73d4-e73a-4637-910b-b6643ef07b5f",
+        "type": "tap",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 200,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 180,
+        "ordered": [
+            {
+                "progressTitleCode": 89,
+                "eventName": "criticriticalTap",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3e092d42-46da-451a-b370-9d361315f609",
+        "type": "battle_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "orange_035",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 5,
+        "jumpingLevel": 16,
+        "kpiGameLevelShouldAppear": 3,
+        "ordered": [
+            {
+                "progressTitleCode": 10,
+                "eventName": "defeatBossBattle",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "47f01240-c954-4f0d-9af9-51074faf86cb",
+        "type": "revenge_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 6,
+        "level": 1,
+        "iconName": "orange_036",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 4,
+        "jumpingLevel": 16,
+        "kpiGameLevelShouldAppear": 2,
+        "ordered": [
+            {
+                "progressTitleCode": 11,
+                "eventName": "defeatBossRevenge",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e65dd591-721e-4dae-8957-abb6ebe48e8c",
+        "type": "failed_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 26,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 25,
+        "ordered": [
+            {
+                "progressTitleCode": 74,
+                "eventName": "failedBossFight",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0",
+        "type": "tap",
+        "forcePriority": 2,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_221",
+        "kpiBossLevel": 1,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 0,
+                "eventName": "tap",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 26,
+        "kpiGameLevelShouldAppear": 21,
+        "ordered": [
+            {
+                "progressTitleCode": 32,
+                "eventName": "unlockSupporter",
+                "progressType": "check_full_active_support_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "6fb95e9d-d285-40be-8236-04ae0168c312",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 650,
+        "kpiGameLevelShouldAppear": 550,
+        "ordered": [
+            {
+                "progressTitleCode": 33,
+                "eventName": "unlockSupporter",
+                "progressType": "check_full_flying_support_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "aedbc674-8955-42ed-8d2b-3495859a3a24",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 70,
+        "kpiGameLevelShouldAppear": 60,
+        "ordered": [
+            {
+                "progressTitleCode": 34,
+                "eventName": "unlockHero",
+                "progressType": "check_full_hero_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "022b940d-3487-405a-be95-5925ff843eca",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 650,
+        "kpiGameLevelShouldAppear": 550,
+        "ordered": [
+            {
+                "progressTitleCode": 31,
+                "eventName": "unlockSupporter",
+                "progressType": "check_full_support_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7fd2600c-0356-478e-8c15-b073e8a421f8",
+        "type": "team",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 26,
+        "kpiGameLevelShouldAppear": 22,
+        "ordered": [
+            {
+                "progressTitleCode": 35,
+                "eventName": "dynamic",
+                "progressType": "check_full_team_reach",
+                "target": -1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "5f16bc8c-3bce-4bc3-a338-fc07975c6c7b",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 1,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "bab1904b-67d4-4beb-8c3c-1cac081a4a80",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 2,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "1fd33a14-2d22-4ed4-9815-f43963e32146",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 3,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7e400473-425d-4d0b-84ed-1fd5ff39a618",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 4,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e45e0d36-5f01-4224-a481-b5b6441f8aef",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 5,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "ca7fafca-59e3-46e8-b6db-7d01a253beac",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 6,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "de752342-d632-4746-8e15-a674583a66d2",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 8,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4df490f4-6804-4d63-8ae1-2d1f627f1aae",
+        "type": "hero_reach_rank",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 4,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 563,
+        "ordered": [
+            {
+                "progressTitleCode": 96,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "heroId": 9,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "a404f8fe-b91a-4cd6-886d-7de4d19df84b",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 8,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 10,
+        "kpiGameLevelShouldAppear": 10,
+        "ordered": [
+            {
+                "progressTitleCode": 16,
+                "eventName": "unlockHero",
+                "progressType": "check_reach",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "20035ae1-8ce7-4eee-9234-521524f127cf",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_stage",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 12,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 9,
+        "ordered": [
+            {
+                "progressTitleCode": 5,
+                "eventName": "unlockSupporter",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "efc8fd67-9d97-439b-90ba-c82547114056",
+        "type": "ghost",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 4,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1,
+        "jumpingLevel": 11,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 9,
+                "eventName": "killGhost",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
+        "type": "big_boss",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 9,
+        "forcePriority": 2,
+        "ordered": [
+            {
+                "progressTitleCode": 114,
+                "eventName": "defeatBigBoss",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
+        "type": "big_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 18,
+        "kpiGameLevelShouldAppear": 18,
+        "ordered": [
+            {
+                "progressTitleCode": 114,
+                "eventName": "defeatBigBoss",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "083d1d66-8818-4508-9402-dca739f86983",
+        "type": "battle_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 3,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 3,
+        "ordered": [
+            {
+                "progressTitleCode": 113,
+                "eventName": "defeatBossBattle",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "dddde071-2539-4375-91ef-cce859569061",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 4,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 46,
+                "eventName": "heroUpdateLevel",
+                "progressType": "count_by_one",
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "84ad457d-0efe-464a-94b2-ddfcc6556161",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 18,
+        "jumpingLevel": 40,
+        "kpiGameLevelShouldAppear": 18,
+        "ordered": [
+            {
+                "progressTitleCode": 47,
+                "eventName": "supportUpdateLevel",
+                "progressType": "count_by_one",
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "90b2cba7-a064-459b-8caf-e3369583b886",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1000,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 950,
+        "ordered": [
+            {
+                "progressTitleCode": 110,
+                "eventName": "petUpdateLevel",
+                "progressType": "count_by_one",
+                "petId": 1,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "976160fe-4a3b-44c9-b100-eea21a3dc266",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 19,
+        "jumpingLevel": 50,
+        "kpiGameLevelShouldAppear": 18,
+        "ordered": [
+            {
+                "progressTitleCode": 109,
+                "eventName": "supportUpdateLevel",
+                "progressType": "count_by_one",
+                "supportId": 1,
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "b3dc258c-abc1-4cff-9210-38facb2b00c5",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 50,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 50,
+        "ordered": [
+            {
+                "progressTitleCode": 99,
+                "eventName": "matchCombo",
+                "progressType": "count_match_combo_by_boss_type",
+                "bossType": 1,
+                "target": 6
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "dc87e098-8353-414f-91e9-a32088c2443d",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 0,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 100,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 100,
+        "ordered": [
+            {
+                "progressTitleCode": 99,
+                "eventName": "matchCombo",
+                "progressType": "count_match_combo_by_boss_type",
+                "target": 6
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2450d6ee-ad2b-44a6-802e-637bb73e08ed",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 150,
+        "jumpingLevel": 50,
+        "kpiGameLevelShouldAppear": 150,
+        "ordered": [
+            {
+                "progressTitleCode": 99,
+                "eventName": "matchCombo",
+                "progressType": "count_match_combo_by_boss_type",
+                "bossType": 2,
+                "target": 6
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "c82f5a88-5789-47b5-ba8f-683f7d105d93",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 30,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 28,
+        "ordered": [
+            {
+                "progressTitleCode": 51,
+                "eventName": "matchCombo",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "9578bbb4-e712-45a9-8023-9d80b6afd6d0",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 25,
+        "jumpingLevel": 1150,
+        "kpiGameLevelShouldAppear": 24,
+        "ordered": [
+            {
+                "progressTitleCode": 24,
+                "eventName": "makeHeroResurrection",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "14ca15a0-1a36-40c0-8bce-d8b1dd671ff8",
+        "type": "quest",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 7,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 3,
+        "ordered": [
+            {
+                "progressTitleCode": 104,
+                "eventName": "onCompletedQuest",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4b852055-a1c0-419f-8f9c-44d5e6870966",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 502,
+        "jumpingLevel": 80,
+        "kpiGameLevelShouldAppear": 500,
+        "ordered": [
+            {
+                "progressTitleCode": 25,
+                "eventName": "makeSupportResurrection",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "1c9aa4ef-a649-423b-972e-847995e787d8",
+        "type": "play_time",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 23,
+        "kpiGameLevelShouldAppear": 10,
+        "jumpingLevel": 50,
+        "ordered": [
+            {
+                "progressTitleCode": 54,
+                "eventName": "playingTime",
+                "progressType": "count_by_minute",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "198af832-577d-4d4a-afd6-dfaa4c2639fa",
+        "type": "play_time",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 276,
+        "kpiGameLevelShouldAppear": 200,
+        "jumpingLevel": 300,
+        "ordered": [
+            {
+                "progressTitleCode": 81,
+                "eventName": "playingTime",
+                "progressType": "count_by_hour",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "15432b4d-5622-4a8c-a20d-9dec67479ce2",
+        "type": "play_time",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 6646,
+        "kpiGameLevelShouldAppear": 6600,
+        "jumpingLevel": 7000,
+        "ordered": [
+            {
+                "progressTitleCode": 82,
+                "eventName": "playingTime",
+                "progressType": "count_by_day",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "aa11143e-1f92-4817-a4ec-d4d6b7ef9dcf",
+        "type": "bird",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_529",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 110,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 30,
+        "ordered": [
+            {
+                "progressTitleCode": 75,
+                "eventName": "tapOnTheBird",
+                "progressType": "count_by_one_one_week_limit",
+                "target": 15
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7b0429dd-bc9b-413e-8d2f-b7b65eeb27ed",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 10,
+        "kpiBossLevel": 68,
+        "jumpingLevel": 200,
+        "kpiGameLevelShouldAppear": 50,
+        "ordered": [
+            {
+                "progressTitleCode": 64,
+                "eventName": "unlockPowerUp",
+                "progressType": "count_unlock_powerup_and_use_it",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "63209fff-2251-42b7-aed3-e1bc6e7d8147",
+        "type": "power_up",
+        "forcePriority": 1,
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 48,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 43,
+        "ordered": [
+            {
+                "progressTitleCode": 38,
+                "eventName": "unlockPowerUp",
+                "progressType": "check_reach",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f609c95d-0834-487f-9145-9777322698f6",
+        "type": "bird",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_529",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 25,
+        "kpiGameLevelShouldAppear": 15,
+        "ordered": [
+            {
+                "progressTitleCode": 12,
+                "eventName": "tapOnTheBird",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "d798bd0a-1608-4bb5-b2f4-1527e11d9f71",
+        "type": "pass_boss",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 40,
+        "kpiGameLevelShouldAppear": 11,
+        "ordered": [
+            {
+                "progressTitleCode": 26,
+                "eventName": "passBossFight",
+                "progressType": "count_pass_boss_fight_consecutive",
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "97e9eed8-a0b2-4b1b-b6e7-3604b2df182d",
+        "type": "game_launched",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 60,
+        "kpiGameLevelShouldAppear": 15,
+        "ordered": [
+            {
+                "progressTitleCode": 30,
+                "eventName": "gameLaunched",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "ef871708-e031-4109-955d-98c12cc5d983",
+        "type": "master_mind",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 72,
+        "jumpingLevel": 830,
+        "kpiGameLevelShouldAppear": 48,
+        "ordered": [
+            {
+                "progressTitleCode": 103,
+                "eventName": "playMasterMind",
+                "progressType": "count_by_one_one_day_limit",
+                "target": 25
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "b035eda8-d018-4863-8dc7-b3c313bc6f0e",
+        "type": "master_mind",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 28,
+        "jumpingLevel": 25,
+        "kpiGameLevelShouldAppear": 28,
+        "ordered": [
+            {
+                "progressTitleCode": 100,
+                "eventName": "playMasterMind",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "82cc2abe-317f-4124-8edf-e01061514601",
+        "type": "game_launched",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1661,
+        "jumpingLevel": 4153,
+        "kpiGameLevelShouldAppear": 831,
+        "ordered": [
+            {
+                "progressTitleCode": 28,
+                "eventName": "gameLaunched",
+                "progressType": "play_game_on_the_weekend",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f3aeec3d-4259-4ddd-bd6a-0d98e25579b5",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 617,
+        "jumpingLevel": 10,
+        "kpiGameLevelShouldAppear": 607,
+        "ordered": [
+            {
+                "progressTitleCode": 69,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_reach_rank",
+                "target": 2,
+                "target2": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e238eb39-85d5-46a1-a77b-7e369e89f52c",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20251,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 20221,
+        "ordered": [
+            {
+                "progressTitleCode": 71,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_reach_rank",
+                "target": 2,
+                "target2": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "6d3853de-4122-453e-83df-1fddf9224ce3",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 30372,
+        "jumpingLevel": 40,
+        "kpiGameLevelShouldAppear": 30332,
+        "ordered": [
+            {
+                "progressTitleCode": 72,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_reach_rank",
+                "target": 2,
+                "target2": 4
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "096a8a3f-3905-4775-822f-3d11de70a79a",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 10129,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 10109,
+        "ordered": [
+            {
+                "progressTitleCode": 70,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_reach_rank",
+                "target": 2,
+                "target2": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "6d24e5ad-94cd-4724-8a77-2bd50b0bd558",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 613,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 588,
+        "ordered": [
+            {
+                "progressTitleCode": 65,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "cfda62be-cdd0-4878-b360-057ab83d14d7",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 20246,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 20221,
+        "ordered": [
+            {
+                "progressTitleCode": 67,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "9ae51f8e-17b6-49cb-98e5-1cd63ccb1233",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 30367,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 30342,
+        "ordered": [
+            {
+                "progressTitleCode": 68,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "target": 4
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "716e4867-c04d-4a7a-bcf9-760be9f13489",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 10124,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 10099,
+        "ordered": [
+            {
+                "progressTitleCode": 66,
+                "eventName": "heroUpdateLevel",
+                "progressType": "hero_reach_rank",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "06f79ed0-51ec-42ae-ba1c-60b36c11f834",
+        "type": "master_mind",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 32,
+        "jumpingLevel": 35,
+        "kpiGameLevelShouldAppear": 32,
+        "ordered": [
+            {
+                "progressTitleCode": 101,
+                "eventName": "onMasterMindInArow",
+                "progressType": "check_reach",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "d37ad18b-a766-4e81-806c-bf9fc6cb55a3",
+        "type": "game_level",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 3,
+        "level": 1,
+        "iconName": "achm_529",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 7,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 8,
+                "eventName": "reachStage",
+                "progressType": "check_reach",
+                "target": 7
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4abe7667-b905-4c3b-adbd-fc6ec9fb4b51",
+        "type": "game_level",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 13,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 8,
+        "ordered": [
+            {
+                "progressTitleCode": 42,
+                "eventName": "completeStage",
+                "progressType": "check_reach",
+                "target": 13
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "ce22f359-69fd-4f73-8848-4cced2be6f4c",
+        "type": "dps",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 17,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 12,
+        "ordered": [
+            {
+                "progressTitleCode": 94,
+                "eventName": "refreshCurrentDps",
+                "progressType": "check_reach",
+                "bigTarget": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "5e2a9187-55b1-4eb8-bc5f-c416ebfe96e8",
+        "type": "passive_skill",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 235,
+        "jumpingLevel": 235,
+        "kpiGameLevelShouldAppear": 230,
+        "ordered": [
+            {
+                "progressTitleCode": 93,
+                "eventName": "updateGhostRoundReduced",
+                "progressType": "check_reach",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "24450ed0-2ead-4753-b396-ef2dcd9fc2b4",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 552,
+        "jumpingLevel": 250,
+        "kpiGameLevelShouldAppear": 521,
+        "ordered": [
+            {
+                "progressTitleCode": 116,
+                "eventName": "makeResurrection",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3948c4fc-96b5-41f9-9c06-8376cdac5c16",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 251,
+        "jumpingLevel": 300,
+        "kpiGameLevelShouldAppear": 200,
+        "ordered": [
+            {
+                "progressTitleCode": 107,
+                "eventName": "makeHeroResurrection",
+                "progressType": "count_revive_a_character",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "8224ed62-3732-47a2-a3d7-aa299c74beb8",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 501,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 492,
+        "ordered": [
+            {
+                "progressTitleCode": 106,
+                "eventName": "makeSupportResurrection",
+                "progressType": "count_revive_a_character",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2cac4319-c1ca-4f0d-b1be-a67d40f86cf0",
+        "type": "social_share",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 50,
+        "jumpingLevel": 150,
+        "kpiGameLevelShouldAppear": 49,
+        "ordered": [
+            {
+                "progressTitleCode": 83,
+                "eventName": "shareToFacebook",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "b5aa330d-5f0a-47d0-a883-939e7befd6cf",
+        "type": "social_share",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 40,
+        "jumpingLevel": 150,
+        "kpiGameLevelShouldAppear": 39,
+        "ordered": [
+            {
+                "progressTitleCode": 84,
+                "eventName": "shareToTwitter",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2c478a7f-cebe-485c-919f-00d307df6e20",
+        "type": "power_up",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "dynamicAvailable": 0,
+        "kpiGameLevelShouldAppear": 43,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 48,
+        "jumpingLevel": 0,
+        "ordered": [
+            {
+                "progressTitleCode": 50,
+                "eventName": "usePowerUp",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f2646313-345e-4522-8249-de94deedced6",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 5,
+        "jumpingLevel": 15,
+        "ordered": [
+            {
+                "progressTitleCode": 52,
+                "eventName": "matchInRow",
+                "progressType": "count_in_staying_boss",
+                "target": 2,
+                "target2": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "0e9c84ae-d1dd-422e-8162-d31b5821eaa7",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 3,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 3,
+        "jumpingLevel": 10,
+        "ordered": [
+            {
+                "progressTitleCode": 80,
+                "eventName": "matchInAll",
+                "progressType": "count_in_staying_boss",
+                "target": 2,
+                "target2": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4cd8b3dd-ad90-42b2-bd60-6f65cda25814",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 7,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 7,
+        "jumpingLevel": 15,
+        "ordered": [
+            {
+                "progressTitleCode": 53,
+                "eventName": "matchInCol",
+                "progressType": "count_in_staying_boss",
+                "target": 2,
+                "target2": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "05e285c7-b5b5-404c-9193-4f27a3bd7e6d",
+        "type": "tap",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 8,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 10,
+        "jumpingLevel": 50,
+        "ordered": [
+            {
+                "progressTitleCode": 45,
+                "eventName": "criticriticalTap",
+                "progressType": "count_in_duration",
+                "target": 2,
+                "duration": 6
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "8f4df756-f24c-4150-b7e0-790010e885f8",
+        "type": "tap",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 3,
+        "level": 1,
+        "iconName": "achm_528",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 2,
+        "jumpingLevel": 20,
+        "kpiGameLevelShouldAppear": 2,
+        "ordered": [
+            {
+                "progressTitleCode": 1,
+                "eventName": "tap",
+                "progressType": "count_in_duration",
+                "target": 5,
+                "duration": 4
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "bd3303aa-ac0a-4fb6-9a77-c2963d9fc7a9",
+        "type": "tap",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 3,
+        "level": 1,
+        "iconName": "achm_gold",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1,
+        "jumpingLevel": 10,
+        "kpiGameLevelShouldAppear": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 2,
+                "eventName": "tap",
+                "progressType": "count_by_one",
+                "target": 20
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "df080cb5-1e84-4d52-9fef-710b969bcc62",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 8,
+        "kpiBossLevel": 101,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 81,
+        "ordered": [
+            {
+                "progressTitleCode": 62,
+                "eventName": "updatePowerUp",
+                "progressType": "count_update_powerup_each_hero",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "2b263bc9-6d94-490a-b9b0-51e7690438ab",
+        "type": "tutorial",
+        "tutorialNum": 7,
+        "skipPrice": 5,
+        "iconName": "achm_104",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 6,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "20035ae1-8ce7-4eee-9234-521524f127cf",
+        "type": "tutorial",
+        "tutorialNum": 6,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_stage",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 5,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "afa56c0c-1c0a-48ca-842a-b5436cf5b9bc",
+        "type": "tutorial",
+        "tutorialNum": 5,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_424",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 4,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "5a7335e4-974d-457c-8f50-f0eebbd3fd54",
+        "type": "tutorial",
+        "tutorialNum": 20,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_324",
+        "kpiBossLevel": 8,
+        "ordered": [
+            {
+                "progressTitleCode": 3,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "1899a14f-799c-4c68-ba30-b6669ecc214d",
+        "type": "tutorial",
+        "tutorialNum": 3,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "achm_133",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 2,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "a2222718-6a76-4a12-9ae8-375124a684e7",
+        "type": "tutorial",
+        "tutorialNum": 2,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "orange_029",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 1,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3784946a-e4d9-49e0-a078-ef26dc980149",
+        "type": "tutorial",
+        "tutorialNum": 1,
+        "skippable": false,
+        "skipPrice": 5,
+        "iconName": "orange_030",
+        "kpiBossLevel": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 0,
+                "eventName": "tutorial",
+                "target": 1,
+                "progressType": "count_by_one"
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "94cb4626-d543-4bfc-8d99-b36982d18d8a",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 650,
+        "jumpingLevel": 1500,
+        "kpiGameLevelShouldAppear": 550,
+        "ordered": [
+            {
+                "progressTitleCode": 111,
+                "eventName": "unlockSkillSupport",
+                "progressType": "count_all_supports_reach_evolve",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "eff6b9f6-b726-4cdb-951c-1fbc4becebf0",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 96,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 90,
+        "ordered": [
+            {
+                "progressTitleCode": 63,
+                "eventName": "unlockPowerUp",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e5be8224-b8c7-453f-8aaa-d038c5f4272f",
+        "isDynamic": true,
+        "dynamicAvailable": -1,
+        "skippable": true,
+        "skipPrice": 5,
+        "kpiGameLevelShouldAppear": 29,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 34,
+        "jumpingLevel": 25,
+        "ordered": [
+            {
+                "progressTitleCode": 48,
+                "eventName": "unlockSkillSupport",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "a51cd2d5-736c-403b-9664-062fa817176c",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 527,
+        "jumpingLevel": 1473,
+        "kpiGameLevelShouldAppear": 475,
+        "ordered": [
+            {
+                "progressTitleCode": 95,
+                "eventName": "unlockSkillSupport",
+                "progressType": "reach_support_evolve",
+                "target": 1,
+                "supportId": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "ff987382-dfb4-474c-82fc-cffb494d944b",
+        "type": "world",
+        "skippable": false,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 10,
+        "jumpingLevel": 10,
+        "kpiGameLevelShouldAppear": 9,
+        "forcePriority": 2,
+        "ordered": [
+            {
+                "progressTitleCode": 115,
+                "eventName": "onUnlockNewZone",
+                "progressType": "check_match",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e621a18f-9c88-43d9-84d7-33e3207ab726",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 2,
+        "level": 1,
+        "iconName": "orange_070",
+        "kpiBossLevel": 4,
+        "jumpingLevel": 40,
+        "ordered": [
+            {
+                "progressTitleCode": 7,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_reach",
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "681bec6d-d9fc-4ca4-b5f6-2d65f808a8dd",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 25,
+        "jumpingLevel": 350,
+        "kpiGameLevelShouldAppear": 25,
+        "ordered": [
+            {
+                "progressTitleCode": 79,
+                "eventName": "petUpdateLevel",
+                "progressType": "count_upgrade_a_pet_n_time",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "e3c482fd-21ea-4e47-9f14-987dbd993e36",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "dynamicAvailable": 0,
+        "kpiGameLevelShouldAppear": 10,
+        "level": 1,
+        "iconName": "achm_508",
+        "kpiBossLevel": 10,
+        "jumpingLevel": 0,
+        "ordered": [
+            {
+                "progressTitleCode": 78,
+                "eventName": "petUpdateLevel",
+                "progressType": "count_upgrade_a_pet_n_time",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "b530603b-e175-45d9-811b-da40edfb2933",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 10,
+        "level": 1,
+        "iconName": "achm_221",
+        "kpiBossLevel": 11,
+        "jumpingLevel": 40,
+        "ordered": [
+            {
+                "progressTitleCode": 77,
+                "eventName": "supportUpdateLevel",
+                "progressType": "check_reach",
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "0d50bd03-0322-40f4-9e4a-cd9bae167c90",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 70,
+        "jumpingLevel": 150,
+        "kpiGameLevelShouldAppear": 70,
+        "ordered": [
+            {
+                "progressTitleCode": 18,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_level_reach",
+                "target": -1,
+                "target2": 50
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "01fcf719-4672-4f8c-a801-c66941d0185f",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 3000,
+        "jumpingLevel": 1450,
+        "kpiGameLevelShouldAppear": 3000,
+        "ordered": [
+            {
+                "progressTitleCode": 19,
+                "eventName": "petUpdateLevel",
+                "progressType": "check_n_pet_level_reach",
+                "target": -1,
+                "target2": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "fa80fe57-b115-4c9e-a2fc-a8bb85d530cf",
+        "type": "hero",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "dynamicAvailable": -1,
+        "kpiGameLevelShouldAppear": 10,
+        "level": 1,
+        "iconName": "achm_508",
+        "kpiBossLevel": 10,
+        "jumpingLevel": 60,
+        "ordered": [
+            {
+                "progressTitleCode": 21,
+                "eventName": "heroUpdateLevel",
+                "progressType": "check_n_hero_level_reach",
+                "target": 2,
+                "target2": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "fe17c21c-7062-4620-be6e-243dd736b578",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 39,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 250,
+        "kpiGameLevelShouldAppear": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 90,
+                "eventName": "petUpdateLevel",
+                "progressType": "count_upgrade_n_pet",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "fe9cc4ff-3666-4921-949b-dc7dfd777fcb",
+        "type": "update_pet",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 20,
+        "jumpingLevel": 100,
+        "kpiGameLevelShouldAppear": 20,
+        "ordered": [
+            {
+                "progressTitleCode": 20,
+                "eventName": "petUpdateLevel",
+                "progressType": "check_n_pet_level_reach",
+                "target": 2,
+                "target2": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "dec66176-80dc-4182-a144-b0db6448ce1f",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 101,
+        "jumpingLevel": 150,
+        "kpiGameLevelShouldAppear": 100,
+        "ordered": [
+            {
+                "progressTitleCode": 49,
+                "eventName": "updatePowerUp",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "3642ac18-74c6-4613-958e-800ce75fa803",
+        "type": "support",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 860,
+        "jumpingLevel": 2500,
+        "kpiGameLevelShouldAppear": 782,
+        "ordered": [
+            {
+                "progressTitleCode": 97,
+                "eventName": "supportUpdateLevel",
+                "progressType": "support_reach_rank",
+                "supportId": 2,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "da1436f0-3b1c-47d0-ac1d-2aafe9659282",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 30,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 29,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 0,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "00fae54e-35c6-48e8-a969-bf5a00ee867a",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 35,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 34,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 1,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "930ed5a8-d0cb-452a-8ead-599b9e7eb967",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 40,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 39,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 2,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "63a2d509-0d87-4225-9206-f68a4769f51b",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 45,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 44,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 3,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f19e09c6-6810-4fa0-acd1-2433c4a773be",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 50,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 49,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 4,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "31e5644d-6ad2-451d-bf15-4c1979318eaf",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 55,
+        "jumpingLevel": 15,
+        "kpiGameLevelShouldAppear": 54,
+        "ordered": [
+            {
+                "progressTitleCode": 98,
+                "eventName": "onFruitMatch",
+                "progressType": "count_fruit_match_by_color",
+                "fruitType": 5,
+                "target": 5
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "d444b105-323b-46f4-9eae-ea222adc2280",
+        "type": "perk",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 100,
+        "jumpingLevel": 1500,
+        "kpiGameLevelShouldAppear": 100,
+        "ordered": [
+            {
+                "progressTitleCode": 91,
+                "eventName": "usePerk",
+                "progressType": "use_n_time_n_perk",
+                "target": 1,
+                "target2": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "1605a74b-f140-4357-850f-be8709f9526c",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 101,
+        "jumpingLevel": 200,
+        "kpiGameLevelShouldAppear": 101,
+        "ordered": [
+            {
+                "progressTitleCode": 92,
+                "eventName": "usePowerUp",
+                "progressType": "use_n_time_n_powerup",
+                "target": 2,
+                "target2": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "68210f68-1fec-4ddd-a43b-e8eaf38e805c",
+        "type": "perk",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1100,
+        "jumpingLevel": 1100,
+        "kpiGameLevelShouldAppear": 900,
+        "ordered": [
+            {
+                "progressTitleCode": 86,
+                "eventName": "usePerkDoom",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "9fec3aa0-8c0b-4643-98c7-859ed0536164",
+        "type": "perk",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 200,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 200,
+        "forcePriority": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 59,
+                "eventName": "usePerkDoom",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "dd6b3b02-f55f-4a21-b5f9-558713f69d00",
+        "type": "perk",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1100,
+        "jumpingLevel": 1000,
+        "kpiGameLevelShouldAppear": 950,
+        "ordered": [
+            {
+                "progressTitleCode": 85,
+                "eventName": "usePerkMakeItRain",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "5990365a-35a1-4269-a614-a38becdab9e9",
+        "type": "perk",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 150,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 150,
+        "forcePriority": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 58,
+                "eventName": "usePerkMakeItRain",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f40488a8-373a-45ae-a434-b755bc086e07",
+        "type": "perk",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 1100,
+        "jumpingLevel": 1200,
+        "kpiGameLevelShouldAppear": 898,
+        "ordered": [
+            {
+                "progressTitleCode": 88,
+                "eventName": "usePerkManaPortion",
+                "progressType": "count_by_one",
+                "target": 2
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4729bfed-ba4f-49fc-ab6a-20f989d492a5",
+        "type": "perk",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 101,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 101,
+        "forcePriority": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 61,
+                "eventName": "usePerkManaPortion",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "8b1ca2a8-6591-4318-8f4c-b36f07633f47",
+        "type": "perk",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 600,
+        "jumpingLevel": 550,
+        "kpiGameLevelShouldAppear": 550,
+        "ordered": [
+            {
+                "progressTitleCode": 87,
+                "eventName": "usePerkPowerOfHolding",
+                "progressType": "count_by_one",
+                "target": 3
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "a7e43111-e062-46f1-b6a0-3bea44ea565f",
+        "type": "perk",
+        "skippable": false,
+        "isDynamic": false,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 50,
+        "jumpingLevel": 0,
+        "kpiGameLevelShouldAppear": 50,
+        "forcePriority": 1,
+        "ordered": [
+            {
+                "progressTitleCode": 60,
+                "eventName": "usePerkPowerOfHolding",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "10ab7c0c-46ad-49c7-a966-c862f2239bd0",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 101,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 101,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "THUNDER_ATTACK",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "6ad91c6d-df41-477c-85ae-2fbb1b4dad61",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 102,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 102,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "TWIN_SHADOW",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "591e7601-6345-4f38-862c-7b5e937d27d7",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 111,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 111,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "THE_TEAMMATE",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "acf6ea55-76ba-476e-ab79-8ad6c66425fa",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 247,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 247,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "LAST_HAND",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "c2590d94-e4ed-422b-9dd2-c5e9216761e4",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 370,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 370,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "FAST_AND_FURIOUS",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "6755e732-7223-4140-9414-f94215a144d7",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 493,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 493,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "ANGER_OF_GOD",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "4e6d072e-e8f7-45a9-917c-5660b3102050",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 617,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 617,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "GOLD_FINGER",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "c61b3851-123a-48fe-bcf4-e1a5b2fddab2",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 630,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 630,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "ANGER_OF_PET",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "f6d533d9-7b48-4f80-8fa8-b77b25abe955",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 643,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 643,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "PROTECTION",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "10c3f171-5fa4-47fc-858f-d9987d1db678",
+        "type": "power_up",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 657,
+        "jumpingLevel": 175,
+        "kpiGameLevelShouldAppear": 657,
+        "ordered": [
+            {
+                "progressTitleCode": 105,
+                "eventName": "usePowerUp",
+                "progressType": "count_use_powerup_by_type",
+                "powerUpType": "FLYING_SUPPORT",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "d907621f-0dc0-462c-ac3a-bd2742323e5c",
+        "type": "ads",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 23,
+        "jumpingLevel": 50,
+        "kpiGameLevelShouldAppear": 15,
+        "ordered": [
+            {
+                "progressTitleCode": 13,
+                "eventName": "watchTheVideo",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "fdd308a2-b0ee-4093-b7ff-5c9f5793bd60",
+        "type": "math3",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 5,
+        "level": 1,
+        "iconName": "achm_221",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 28,
+        "jumpingLevel": 30,
+        "kpiGameLevelShouldAppear": 28,
+        "ordered": [
+            {
+                "progressTitleCode": 102,
+                "eventName": "onWinMasterMind",
+                "progressType": "count_by_one",
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "bbef5678-1f71-464c-be56-650761694c97",
+        "type": "world",
+        "forcePriority": 1,
+        "skippable": true,
+        "isDynamic": false,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": 0,
+        "kpiBossLevel": 1020,
+        "kpiGameLevelShouldAppear": 1011,
+        "ordered": [
+            {
+                "progressTitleCode": 36,
+                "eventName": "gameWorldLoop",
+                "progressType": "check_reach",
+                "heroId": 0,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    },
+    {
+        "id": "7e0a58cd-cf2a-42ea-a311-cc9ec0e505a3",
+        "type": "world",
+        "skippable": true,
+        "isDynamic": true,
+        "skipPrice": 8,
+        "level": 1,
+        "iconName": "achm_508",
+        "dynamicAvailable": -1,
+        "kpiBossLevel": 2040,
+        "jumpingLevel": 1020,
+        "kpiGameLevelShouldAppear": 1020,
+        "ordered": [
+            {
+                "progressTitleCode": 37,
+                "eventName": "gameWorldLoop",
+                "progressType": "count_by_one",
+                "heroId": 0,
+                "target": 1
+            }
+        ],
+        "concurrent": []
+    }
+]
