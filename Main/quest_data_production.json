@@ -2409,7 +2409,7 @@
                 "progressTitleCode": 97,
                 "eventName": "supportUpdateLevel",
                 "progressType": "support_reach_rank",
-                "supportId": 2,
+                "supportId": 1,
                 "target": 1
             }
         ],

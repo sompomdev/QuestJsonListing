@@ -1,0 +1,4526 @@
+[
+  {
+    "id": "7acc047d-9fef-47a3-a8b9-a0d7e8d4e4a0",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 0,
+        "eventName": "tap",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bd3303aa-ac0a-4fb6-9a77-c2963d9fc7a9",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 3,
+    "level": 1,
+    "iconName": "achm_gold",
+    "ordered": [
+      {
+        "progressTitleCode": 2,
+        "eventName": "tap",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8f4df756-f24c-4150-b7e0-790010e885f8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 3,
+    "iconName": "achm_528",
+    "ordered": [
+      {
+        "progressTitleCode": 1,
+        "eventName": "tap",
+        "target": 20,
+        "duration": 4,
+        "bigReward": 1,
+        "progressType": "count_in_duration"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d37ad18b-a766-4e81-806c-bf9fc6cb55a3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 3,
+    "level": 1,
+    "iconName": "achm_529",
+    "ordered": [
+      {
+        "progressTitleCode": 8,
+        "eventName": "reachStage",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "efc8fd67-9d97-439b-90ba-c82547114056",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 4,
+    "level": 1,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 9,
+        "eventName": "killGhost",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2ebfdf17-1349-4b72-9887-0aa56fc7ddd8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 4,
+    "level": 1,
+    "iconName": "achm_139",
+    "ordered": [
+      {
+        "progressTitleCode": 6,
+        "eventName": "collectGold",
+        "bigTarget": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "960034f4-a1fc-4f0a-94e9-5d0773db3c43",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 4,
+    "level": 1,
+    "iconName": "achm_139",
+    "ordered": [
+      {
+        "progressTitleCode": 15,
+        "eventName": "collectGold",
+        "bigTarget": 2,
+        "bigReward": 1,
+        "duration": 60,
+        "progressType": "count_in_duration"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2b263bc9-6d94-490a-b9b0-51e7690438ab",
+    "tutorialNum": 7,
+    "skipPrice": 5,
+    "iconName": "achm_104",
+    "ordered": [
+      {
+        "progressTitleCode": 6,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "20035ae1-8ce7-4eee-9234-521524f127cf",
+    "tutorialNum": 6,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_stage",
+    "ordered": [
+      {
+        "progressTitleCode": 5,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "afa56c0c-1c0a-48ca-842a-b5436cf5b9bc",
+    "tutorialNum": 5,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_424",
+    "ordered": [
+      {
+        "progressTitleCode": 4,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5a7335e4-974d-457c-8f50-f0eebbd3fd54",
+    "tutorialNum": 4,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_324",
+    "ordered": [
+      {
+        "progressTitleCode": 3,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1899a14f-799c-4c68-ba30-b6669ecc214d",
+    "tutorialNum": 3,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_133",
+    "ordered": [
+      {
+        "progressTitleCode": 2,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a2222718-6a76-4a12-9ae8-375124a684e7",
+    "tutorialNum": 2,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "orange_029",
+    "ordered": [
+      {
+        "progressTitleCode": 1,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3784946a-e4d9-49e0-a078-ef26dc980149",
+    "tutorialNum": 1,
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "orange_030",
+    "ordered": [
+      {
+        "progressTitleCode": 0,
+        "eventName": "tutorial",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3e092d42-46da-451a-b370-9d361315f609",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "orange_035",
+    "ordered": [
+      {
+        "progressTitleCode": 10,
+        "eventName": "defeatBossBattle",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "47f01240-c954-4f0d-9af9-51074faf86cb",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 6,
+    "iconName": "orange_036",
+    "ordered": [
+      {
+        "progressTitleCode": 11,
+        "eventName": "defeatBossRevenge",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "dd1a32bc-35d4-46ca-8dab-0ec70efbec46",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 20,
+    "skipPrice": 7,
+    "iconName": "orange_044",
+    "ordered": [
+      {
+        "progressTitleCode": 6,
+        "eventName": "collectGold",
+        "bigTarget": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      },
+      {
+        "progressTitleCode": 5,
+        "eventName": "unlockSupporter",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "09fddfcb-abcc-4edf-b39f-6b6d11691442",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 8,
+    "skipPrice": 7,
+    "iconName": "orange_088",
+    "ordered": [
+      {
+        "progressTitleCode": 5,
+        "eventName": "unlockSupporter",
+        "target": 4,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e621a18f-9c88-43d9-84d7-33e3207ab726",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 8,
+    "iconName": "orange_070",
+    "ordered": [
+      {
+        "progressTitleCode": 7,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "302cd232-9e78-46a7-b5e4-043ea8aa830d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 39,
+    "skipPrice": 8,
+    "iconName": "orange_070",
+    "ordered": [
+      {
+        "progressTitleCode": 14,
+        "eventName": "petUnlock",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d907621f-0dc0-462c-ac3a-bd2742323e5c",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 13,
+        "eventName": "watchTheVideo",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  
+  
+  {
+    "id": "dc87e098-8353-414f-91e9-a32088c2443d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 99,
+        "eventName": "matchCombo",
+        "target": 6,
+        "bossType": 0,
+        "bigReward": 1,
+        "progressType": "count_match_combo_by_boss_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "b3dc258c-abc1-4cff-9210-38facb2b00c5",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 99,
+        "eventName": "matchCombo",
+        "target": 6,
+        "bossType": 1,
+        "bigReward": 1,
+        "progressType": "count_match_combo_by_boss_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2450d6ee-ad2b-44a6-802e-637bb73e08ed",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 99,
+        "eventName": "matchCombo",
+        "target": 6,
+        "bossType": 2,
+        "bigReward": 1,
+        "progressType": "count_match_combo_by_boss_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c82f5a88-5789-47b5-ba8f-683f7d105d93",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 51,
+        "eventName": "matchCombo",
+        "target": 6,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "da1436f0-3b1c-47d0-ac1d-2aafe9659282",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 0,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "00fae54e-35c6-48e8-a969-bf5a00ee867a",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 1,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "930ed5a8-d0cb-452a-8ead-599b9e7eb967",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 2,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "63a2d509-0d87-4225-9206-f68a4769f51b",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 3,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f19e09c6-6810-4fa0-acd1-2433c4a773be",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 4,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "31e5644d-6ad2-451d-bf15-4c1979318eaf",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 98,
+        "eventName": "onFruitMatch",
+        "target": 10,
+        "fruitType": 5,
+        "bigReward": 1,
+        "progressType": "count_fruit_match_by_color"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "667133d4-201d-465c-adb8-e7432a6a4e96",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 1,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6e2af4d0-cb7e-44bf-823c-e16bcaeb26c7",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 2,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1de5cb59-7338-4c6c-b1fa-da2f5f0c419c",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 3,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "040c639d-c1f1-4751-9244-dab4662f73f6",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 4,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f69495bd-65b8-4d8e-8188-90bbb06811fd",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 5,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f731752e-2e93-4c77-b85b-49028a6140fc",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 6,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ec323299-8658-4834-b350-1896c342583a",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 7,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7f8d8d1e-7a52-44aa-8048-0190557cc885",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 8,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "84adb139-7e4a-4c0c-9e04-e58659088574",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 9,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "cae0fe21-975a-41d3-aa00-4a443d1628e2",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 10,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ec9ec84d-8c92-4e6f-a426-822427b9fa0f",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 11,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a0dca552-450b-42ce-9704-4ba802ee117d",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 12,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5ae4abec-f5ad-40ab-8a38-ffeec4a76157",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 13,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a313ea1e-a2bb-4dbc-9045-c0f2fbc1178a",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 14,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "dc0a1fe4-834e-4082-a3ca-2605a857d5bf",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 15,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "30fc67ea-6cc0-4b55-b77f-ad09b9c347b5",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 16,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c228b3f5-0f7b-4176-8357-bd1873acec48",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 17,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6271fa8c-9805-4008-aca4-ff739d9993bc",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 18,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8491c98c-724a-4443-896b-750e0036e4d5",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 19,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3642ac18-74c6-4613-958e-800ce75fa803",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 97,
+        "eventName": "supportUpdateLevel",
+        "target": 1,
+        "supportId": 20,
+        "bigReward": 1,
+        "progressType": "support_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5f16bc8c-3bce-4bc3-a338-fc07975c6c7b",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 1,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bab1904b-67d4-4beb-8c3c-1cac081a4a80",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 2,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1fd33a14-2d22-4ed4-9815-f43963e32146",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 3,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7e400473-425d-4d0b-84ed-1fd5ff39a618",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 4,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e45e0d36-5f01-4224-a481-b5b6441f8aef",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 5,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ca7fafca-59e3-46e8-b6db-7d01a253beac",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 6,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "de752342-d632-4746-8e15-a674583a66d2",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 8,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4df490f4-6804-4d63-8ae1-2d1f627f1aae",
+    "skippable": true,
+    "isDynamic":true,
+    "dynamicAvailable": 4,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 96,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "heroId": 9,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+
+
+
+
+
+  {
+    "id": "a51cd2d5-736c-403b-9664-062fa817176c",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 1,
+        "supportId": 1,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "08e6d95f-3177-4b65-b640-62362acea085",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 1,
+        "supportId": 2,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5f55aa26-4e88-444f-bcc4-058c40656c92",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 1,
+        "supportId": 3,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a2105ca1-026f-49ec-8a62-9dd8502d2c82",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 1,
+        "supportId": 4,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "829ad14b-aeb8-4939-b77e-4d74bf96f4b0",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 5,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1e3e3ba8-7b8c-46fe-ac05-11f0139e8c73",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 6,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5d75b10c-0733-4ef0-9d81-3e1c9a789471",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 7,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7807210d-96a0-4885-b066-663412ca01a1",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 8,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fb77fb6d-0425-4bb9-b7d5-09e84b99e4d5",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 9,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "08543dba-7a15-4ca1-bcb9-9e895a830c84",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 10,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1a6ba50c-88ad-4241-b7df-efb6a3031cc1",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 11,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bc4dcfe1-4eb5-4200-a5c6-c63164b61301",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 12,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "05b0e28f-8b05-4072-98e4-a24e20648d96",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 13,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f6735d32-6119-4fd4-8cd1-19c7c373ed9b",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 14,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6ba9d41f-af90-4a2f-855e-cae0484272d4",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 15,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5fd56794-1d0b-4a42-bbdf-316bbe5dc0c3",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 16,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "16f4f855-5240-4e9a-b612-280bc47c96d2",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 17,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3ecd670d-26ea-4124-bf7b-f9a61c8807a6",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 18,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fcf3d37e-6fce-41f8-97fe-849a84467bb0",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 19,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "9a0d77b1-824b-493f-ba8b-d11b5284cfae",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 95,
+        "eventName": "unlockSkillSupport",
+        "target": 3,
+        "supportId": 20,
+        "bigReward": 1,
+        "progressType": "count_support_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "b530603b-e175-45d9-811b-da40edfb2933",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 77,
+        "eventName": "supportUpdateLevel",
+        "target": 100,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "eec93c87-fe1b-4414-a394-4ac6a809d401",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 41,
+        "eventName": "collectDiamond",
+        "target": 10,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "dd6b3b02-f55f-4a21-b5f9-558713f69d00",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 85,
+        "eventName": "usePerkMakeItRain",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "68210f68-1fec-4ddd-a43b-e8eaf38e805c",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 86,
+        "eventName": "usePerkDoom",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8b1ca2a8-6591-4318-8f4c-b36f07633f47",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 87,
+        "eventName": "usePerkPowerOfHolding",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f40488a8-373a-45ae-a434-b755bc086e07",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 88,
+        "eventName": "usePerkManaPortion",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "24450ed0-2ead-4753-b396-ef2dcd9fc2b4",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 116,
+        "eventName": "makeResurrection",
+        "target": 4,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ff987382-dfb4-474c-82fc-cffb494d944b",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 115,
+        "eventName": "onUnlockNewZone",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "check_match"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 114,
+        "eventName": "defeatBigBoss",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "083d1d66-8818-4508-9402-dca739f86983",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 113,
+        "eventName": "defeatBossBattle",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "16139f5b-56ad-414a-8bd6-9ceaabfbd19e",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 112,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_all_heroes_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "94cb4626-d543-4bfc-8d99-b36982d18d8a",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 111,
+        "eventName": "unlockSkillSupport",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_all_supports_reach_evolve"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ce22f359-69fd-4f73-8848-4cced2be6f4c",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 94,
+        "eventName": "refreshCurrentDps",
+        "bigTarget": 3,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e6ab73d4-e73a-4637-910b-b6643ef07b5f",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 89,
+        "eventName": "criticriticalTap",
+        "target": 10,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "90b2cba7-a064-459b-8caf-e3369583b886",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 1,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1148ec3c-237f-4617-8631-2fe56d6a1105",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 2,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1e22d9d3-21ec-4d47-b10e-f53d5f98cd62",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 3,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "94f9d263-795e-4a0b-8133-8be0b78f927d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 4,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7851e198-3ee0-4ab6-bf8f-3cfb2df617f3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 5,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e42add1f-f61f-4c92-a6ba-ee3059bda397",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 7,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d732edaf-d94c-450c-bd29-2a6921aa3b97",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 8,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d236064f-0783-45ae-a37e-2f3f93f6d6d9",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 9,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "abae2b56-6f6c-4414-aafb-d6d99d60e184",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 10,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e1918ba4-775d-490b-8473-9e71dfce5095",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 11,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "57d53d96-7905-4a1b-b730-afb3b47158b4",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 12,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "093d713b-a791-4748-8166-10469dec05ff",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 13,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "0a585b49-9659-45a3-acf7-27b69fd62a01",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 14,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c86d8ce1-823b-41b7-9d0b-2f1b35f33574",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 15,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "299af923-d03c-4ca8-b4ce-3a7d944f1772",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 16,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3c2789b3-f054-45fc-9177-8cb61db1f7c2",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 17,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "04db542f-2523-472d-be46-89d11d25e0ab",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 18,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "11cd6b09-8b73-435a-9392-de2e960704d0",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 19,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d852f56b-bb47-444c-ada9-3a2cb9225d44",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 20,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e68f3cdb-6b53-4fc2-84a5-de6051971ecd",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 21,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2d235b2d-6238-495f-a2aa-c3a28c29faba",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 22,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "19ed44c1-dda5-431e-af5c-ef63688a2ec0",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 23,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "38a23711-dad6-416b-8e31-ccf523bab432",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 24,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6fecc1b2-2893-4b6d-8387-e93093be0054",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 25,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "365191ff-2358-4513-a8b0-1b42276bdaf9",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 26,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5ef80854-cecf-4770-b304-3c839a104363",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 27,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fe1136d2-5b96-41d7-bf9a-a960447a0979",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 28,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4a3ebc5e-a060-48d3-bb59-fe40f1ead0e8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 29,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "da55116a-ddd1-4fb5-b595-364211f7a22e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 30,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "acc42968-99fe-4abb-a411-6ee0cda3b059",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 31,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e431ab75-56f1-4b70-96ac-7b3a4bc4abb5",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 32,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5139f12e-39ab-4d12-81c3-cdcd3ecbb115",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 33,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "21878dd3-5647-4c87-8993-c0ec1db276f3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 34,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ac8999ae-ab0a-4ec6-a907-b38f0e04149d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 35,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a7366cf7-8b41-4a24-a6a8-3a2952f689db",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 36,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8af9131f-4543-4a38-9cd7-28b5a82ef4a1",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 37,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f04108a0-e7a6-4d37-986b-73950ee82ec7",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 38,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "da6d4b7d-41bc-4b64-8f7d-5b8d621db6bc",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 39,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c6292263-debf-4078-bb88-5087d3588a0e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 110,
+        "eventName": "petUpdateLevel",
+        "petId": 40,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "976160fe-4a3b-44c9-b100-eea21a3dc266",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 1,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5f523795-050a-41e0-9679-226bf7300a89",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 2,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3536f22c-7959-4305-8d10-89c5d047b0ea",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 3,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3aa8b5d7-fea2-4369-b840-34ddcf44e81b",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 4,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4251d117-332b-438d-a0f6-7e8dd482ab3a",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 5,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5e0bda88-fb31-4d88-ba9d-b1943d789f01",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 6,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c322d60f-f09c-4390-9456-29dd5fdc8990",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 7,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "682a15b5-21de-4f55-b5cb-cab9ba26a5cc",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 8,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d0ef1c4b-8ab3-4a15-9a5b-a665e107b8e2",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 9,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d1dee3f1-6e87-4719-9da0-2f8bb5c99eee",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 10,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "141c3447-99dc-4be8-9d8e-df78575e39a4",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 11,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "92b613f9-3561-4f21-b369-da50327de099",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 12,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "20a0ad41-14da-4f88-8f9b-8bbb07f1a5f6",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 13,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "541a639d-613e-4426-a0a8-0c761e98b5a1",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 14,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "14e5445f-d09c-429b-81e2-42454f760649",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 15,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8154be8e-3e9b-4f60-86b0-6fe2fbcc76e3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 16,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bbc1079b-b5e9-42b7-bd3d-b04096fcaf25",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 17,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "32adae30-4c91-4994-98aa-e4de25202516",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 18,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d5017f3a-0673-4a6b-8db8-fa3f23149fba",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 19,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6f13b54c-07d5-4f1c-a8ac-02980b19e7f2",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 109,
+        "eventName": "supportUpdateLevel",
+        "supportId": 20,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "168344b3-1065-4274-aec9-4f7281c6d811",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 1,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2b919ffa-f8c6-4fd9-8187-6585a548fcf8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 2,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "102b77a3-eb83-4c9b-a0b4-30c12a9dd936",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 3,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "23773ce9-6cff-463d-995e-0e9c5e57dc86",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 4,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8ea1e883-14e9-4521-ba5a-0ea6002ba28e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 5,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a18932fb-10ff-4670-9af6-672b94a44f98",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 6,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2f7a46d6-9be1-4105-a8d8-dd0c2a857a99",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 8,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a66fb248-63a0-4370-92dc-beb1ccdfb08e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 108,
+        "eventName": "heroUpdateLevel",
+        "heroId": 9,
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3948c4fc-96b5-41f9-9c06-8376cdac5c16",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 107,
+        "eventName": "makeHeroResurrection",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_revive_a_character"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "8224ed62-3732-47a2-a3d7-aa299c74beb8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 106,
+        "eventName": "makeSupportResurrection",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_revive_a_character"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4b852055-a1c0-419f-8f9c-44d5e6870966",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 25,
+        "eventName": "makeSupportResurrection",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f609c95d-0834-487f-9145-9777322698f6",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_529",
+    "ordered": [
+      {
+        "progressTitleCode": 12,
+        "eventName": "tapOnTheBird",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "10ab7c0c-46ad-49c7-a966-c862f2239bd0",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 0,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6ad91c6d-df41-477c-85ae-2fbb1b4dad61",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 1,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "acf6ea55-76ba-476e-ab79-8ad6c66425fa",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 2,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c2590d94-e4ed-422b-9dd2-c5e9216761e4",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 3,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6755e732-7223-4140-9414-f94215a144d7",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 4,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4e6d072e-e8f7-45a9-917c-5660b3102050",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 5,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c61b3851-123a-48fe-bcf4-e1a5b2fddab2",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 6,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f6d533d9-7b48-4f80-8fa8-b77b25abe955",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 7,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "10c3f171-5fa4-47fc-858f-d9987d1db678",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 8,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "591e7601-6345-4f38-862c-7b5e937d27d7",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 105,
+        "eventName": "usePowerUp",
+        "powerUpType": 10,
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_use_powerup_by_type"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "14ca15a0-1a36-40c0-8bce-d8b1dd671ff8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 104,
+        "eventName": "onCompletedQuest",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e5be8224-b8c7-453f-8aaa-d038c5f4272f",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 48,
+        "eventName": "unlockSkillSupport",
+        "target": 10,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "ef871708-e031-4109-955d-98c12cc5d983",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 103,
+        "eventName": "playMasterMind",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_one_one_day_limit"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fdd308a2-b0ee-4093-b7ff-5c9f5793bd60",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 102,
+        "eventName": "onWinMasterMind",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "06f79ed0-51ec-42ae-ba1c-60b36c11f834",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 101,
+        "eventName": "onMasterMindInArow",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "b035eda8-d018-4863-8dc7-b3c313bc6f0e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 100,
+        "eventName": "playMasterMind",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4afe97aa-f82a-4301-8be7-de7fc9d7ec9d",
+    "skippable": false,
+    "isDynamic": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 76,
+        "eventName": "collectZoneBossCrown",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7b3a74b1-f995-48f1-a691-3b7dfd917e3a",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 73,
+        "eventName": "collectZoneBossCrown",
+        "target": 10,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7fa100ef-f656-48f3-a7a5-dd5949e90c0a",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 39,
+        "eventName": "passBossFight",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e65dd591-721e-4dae-8957-abb6ebe48e8c",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 74,
+        "eventName": "failedBossFight",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "c2372ed5-55a3-4f7a-bfa0-b6f68f66fbe3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 40,
+        "eventName": "passBossFight",
+        "target": 10,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7b0429dd-bc9b-413e-8d2f-b7b65eeb27ed",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 10,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 64,
+        "eventName": "unlockPowerUp",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_unlock_powerup_and_use_it"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "aa11143e-1f92-4817-a4ec-d4d6b7ef9dcf",
+    "iconName": "achm_529",
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skippable": true,
+    "skipPrice": 5,
+    "ordered": [
+      {
+        "progressTitleCode": 75,
+        "eventName": "tapOnTheBird",
+        "target": 50,
+        "bigReward": 1,
+        "progressType": "count_by_one_one_week_limit"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2cac4319-c1ca-4f0d-b1be-a67d40f86cf0",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 83,
+        "eventName": "shareToFacebook",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "b5aa330d-5f0a-47d0-a883-939e7befd6cf",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 84,
+        "eventName": "shareToTwitter",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a09e08a5-8c27-4ff7-a80c-ea6d639b72c3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 8,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 63,
+        "eventName": "unlockPowerUp",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_update_powerup_each_hero"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "df080cb5-1e84-4d52-9fef-710b969bcc62",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 8,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 62,
+        "eventName": "updatePowerUp",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_update_powerup_each_hero"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5990365a-35a1-4269-a614-a38becdab9e9",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 58,
+        "eventName": "usePerkMakeItRain",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "9fec3aa0-8c0b-4643-98c7-859ed0536164",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 59,
+        "eventName": "usePerkDoom",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a7e43111-e062-46f1-b6a0-3bea44ea565f",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 60,
+        "eventName": "usePerkPowerOfHolding",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4729bfed-ba4f-49fc-ab6a-20f989d492a5",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 61,
+        "eventName": "usePerkManaPortion",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4abe7667-b905-4c3b-adbd-fc6ec9fb4b51",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 42,
+        "eventName": "completeStage",
+        "target": 150,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "0082105a-c584-4e4f-a0ff-b34099cb76b9",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 57,
+        "eventName": "completeStage",
+        "target": 25,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1c9aa4ef-a649-423b-972e-847995e787d8",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 54,
+        "eventName": "playingTime",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_by_minute"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d444b105-323b-46f4-9eae-ea222adc2280",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 91,
+        "eventName": "usePerk",
+        "target": 2,
+        "target2": 4,
+        "bigReward": 1,
+        "progressType": "use_n_time_n_perk"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "1605a74b-f140-4357-850f-be8709f9526c",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 92,
+        "eventName": "usePowerUp",
+        "target": 2,
+        "target2": 4,
+        "bigReward": 1,
+        "progressType": "use_n_time_n_powerup"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "5e2a9187-55b1-4eb8-bc5f-c416ebfe96e8",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 93,
+        "eventName": "updateGhostRoundReduced",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "198af832-577d-4d4a-afd6-dfaa4c2639fa",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 81,
+        "eventName": "playingTime",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_hour"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "15432b4d-5622-4a8c-a20d-9dec67479ce2",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 82,
+        "eventName": "playingTime",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_day"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "0e9c84ae-d1dd-422e-8162-d31b5821eaa7",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 80,
+        "eventName": "matchInAll",
+        "target": 2,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "count_in_staying_boss"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "4cd8b3dd-ad90-42b2-bd60-6f65cda25814",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 53,
+        "eventName": "matchInCol",
+        "target": 2,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "count_in_staying_boss"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f2646313-345e-4522-8249-de94deedced6",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 52,
+        "eventName": "matchInRow",
+        "target": 2,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "count_in_staying_boss"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2c478a7f-cebe-485c-919f-00d307df6e20",
+    "skippable": false,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 50,
+        "eventName": "usePowerUp",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "dec66176-80dc-4182-a144-b0db6448ce1f",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 49,
+        "eventName": "updatePowerUp",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "84ad457d-0efe-464a-94b2-ddfcc6556161",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 47,
+        "eventName": "supportUpdateLevel",
+        "target": 20,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "dddde071-2539-4375-91ef-cce859569061",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 46,
+        "eventName": "heroUpdateLevel",
+        "target": 15,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "05e285c7-b5b5-404c-9193-4f27a3bd7e6d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 45,
+        "eventName": "criticriticalTap",
+        "target": 3,
+        "bigReward": 1,
+        "duration": 2,
+        "progressType": "count_in_duration"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "2341a9e4-27fd-4d9e-bc99-e68a3c067550",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 44,
+        "eventName": "passBossFight",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bb1e71bd-2bf4-4e05-82c4-a66854bfa292",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 43,
+        "eventName": "completeStage",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "63209fff-2251-42b7-aed3-e1bc6e7d8147",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 38,
+        "eventName": "unlockPowerUp",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7fd2600c-0356-478e-8c15-b073e8a421f8",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 35,
+        "eventName": "dynamic",
+        "target": -1,
+        "bigReward": 1,
+        "progressType": "check_full_team_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bbef5678-1f71-464c-be56-650761694c97",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 36,
+        "eventName": "gameWorldLoop",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "7e0a58cd-cf2a-42ea-a311-cc9ec0e505a3",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 37,
+        "eventName": "gameWorldLoop",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "aedbc674-8955-42ed-8d2b-3495859a3a24",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 34,
+        "eventName": "unlockHero",
+        "target": -1,
+        "bigReward": 1,
+        "progressType": "check_full_hero_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6fb95e9d-d285-40be-8236-04ae0168c312",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 33,
+        "eventName": "unlockSupporter",
+        "target": -1,
+        "bigReward": 1,
+        "progressType": "check_full_flying_support_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "3c108949-7294-436a-8ab7-ef47f75295b5",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 32,
+        "eventName": "unlockSupporter",
+        "target": -1,
+        "bigReward": 1,
+        "progressType": "check_full_active_support_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "022b940d-3487-405a-be95-5925ff843eca",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 31,
+        "eventName": "unlockSupporter",
+        "target": -1,
+        "bigReward": 1,
+        "progressType": "check_full_support_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "97e9eed8-a0b2-4b1b-b6e7-3604b2df182d",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 30,
+        "eventName": "gameLaunched",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "add31261-48f9-4369-a099-c4b3680814eb",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 29,
+        "eventName": "useShieldOfGodPowerUp",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "82cc2abe-317f-4124-8edf-e01061514601",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 28,
+        "eventName": "gameLaunched",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "play_game_on_the_weekend"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "9ebabd53-e47e-4b63-8982-bd787002f2e5",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 27,
+        "eventName": "usePowerUp",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "combine_power_up"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "d798bd0a-1608-4bb5-b2f4-1527e11d9f71",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 26,
+        "eventName": "passBossFight",
+        "target": 5,
+        "bigReward": 1,
+        "progressType": "count_pass_boss_fight_consecutive"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "9578bbb4-e712-45a9-8023-9d80b6afd6d0",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 24,
+        "eventName": "makeHeroResurrection",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "bc272a71-f72d-4460-ab49-46ae4b02a41e",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 23,
+        "eventName": "collectDiamondFromBird",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fe9cc4ff-3666-4921-949b-dc7dfd777fcb",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 39,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 20,
+        "eventName": "petUpdateLevel",
+        "target": 3,
+        "target2": 2,
+        "bigReward": 1,
+        "progressType": "check_n_pet_level_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e3c482fd-21ea-4e47-9f14-987dbd993e36",
+    "skippable": true,
+    "isDynamic": false,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 78,
+        "eventName": "petUpdateLevel",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fe17c21c-7062-4620-be6e-243dd736b578",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 39,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 90,
+        "eventName": "petUpdateLevel",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_upgrade_n_pet"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "681bec6d-d9fc-4ca4-b5f6-2d65f808a8dd",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 99,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 79,
+        "eventName": "petUpdateLevel",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_upgrade_a_pet_n_time"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "fa80fe57-b115-4c9e-a2fc-a8bb85d530cf",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 21,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "check_n_hero_level_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "01fcf719-4672-4f8c-a801-c66941d0185f",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "questRatio":9.5,
+    "ordered": [
+      {
+        "progressTitleCode": 19,
+        "eventName": "petUpdateLevel",
+        "target": -1,
+        "target2": 2,
+        "bigReward": 1,
+        "progressType": "check_n_pet_level_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "0d50bd03-0322-40f4-9e4a-cd9bae167c90",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 18,
+        "eventName": "heroUpdateLevel",
+        "target": -1,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "check_n_hero_level_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "cf1077ec-0c7c-4635-8ec7-5da9eaffa433",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": 8,
+    "skipPrice": 7,
+    "iconName": "orange_044",
+    "ordered": [
+      {
+        "progressTitleCode": 6,
+        "eventName": "collectGold",
+        "bigTarget": 2,
+        "bigReward": 1,
+        "progressType": "count_by_one"
+      },
+      {
+        "progressTitleCode": 16,
+        "eventName": "unlockHero",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "af5e8f05-d49f-447e-9522-3d814f3eb036",
+    "skippable": true,
+    "isDynamic": true,
+    "dynamicAvailable": -1,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 17,
+        "eventName": "gameLaunched",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "count_come_back_to_game_consecutive"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "a404f8fe-b91a-4cd6-886d-7de4d19df84b",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 8,
+    "iconName": "achm_508",
+    "ordered": [
+      {
+        "progressTitleCode": 16,
+        "eventName": "unlockHero",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "check_reach"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "f3aeec3d-4259-4ddd-bd6a-0d98e25579b5",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 69,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "target2": 1,
+        "bigReward": 1,
+        "progressType": "check_n_hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "096a8a3f-3905-4775-822f-3d11de70a79a",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 70,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "target2": 2,
+        "bigReward": 1,
+        "progressType": "check_n_hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "e238eb39-85d5-46a1-a77b-7e369e89f52c",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "questRatio":10,
+    "ordered": [
+      {
+        "progressTitleCode": 71,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "target2": 3,
+        "bigReward": 1,
+        "progressType": "check_n_hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6d3853de-4122-453e-83df-1fddf9224ce3",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "ordered": [
+      {
+        "progressTitleCode": 72,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "target2": 4,
+        "bigReward": 1,
+        "progressType": "check_n_hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "6d24e5ad-94cd-4724-8a77-2bd50b0bd558",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "questRatio":7,
+    "ordered": [
+      {
+        "progressTitleCode": 65,
+        "eventName": "heroUpdateLevel",
+        "target": 1,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "716e4867-c04d-4a7a-bcf9-760be9f13489",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "questRatio":8,
+    "ordered": [
+      {
+        "progressTitleCode": 66,
+        "eventName": "heroUpdateLevel",
+        "target": 2,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "cfda62be-cdd0-4878-b360-057ab83d14d7",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "questRatio":9,
+    "ordered": [
+      {
+        "progressTitleCode": 67,
+        "eventName": "heroUpdateLevel",
+        "target": 3,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  },
+  {
+    "id": "9ae51f8e-17b6-49cb-98e5-1cd63ccb1233",
+    "skippable": true,
+    "isDynamic": true,
+    "skipPrice": 5,
+    "iconName": "achm_221",
+    "questRatio":10,
+    "ordered": [
+      {
+        "progressTitleCode": 68,
+        "eventName": "heroUpdateLevel",
+        "target": 4,
+        "bigReward": 1,
+        "progressType": "hero_reach_rank"
+      }
+    ],
+    "concurrent": []
+  }
+]
