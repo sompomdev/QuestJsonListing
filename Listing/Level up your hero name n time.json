@@ -1,0 +1,24 @@
+[
+	{
+	  "id": "a66fb248-63a0-4370-92dc-beb1ccdfb08e",
+	  "isDynamic": true,
+	  "dynamicAvailable": -1,
+	  "skippable": true,
+	  "skipPrice": 5,
+	  "kpiGameLevelShouldAppear": 20,
+	  "level": 1,
+	  "iconName": "achm_221",
+	  "kpiBossLevel": 20,
+	  "jumpingLevel": 20,
+	  "ordered": [
+		{
+		  "progressTitleCode": 108,
+		  "eventName": "heroUpdateLevel",
+		  "progressType": "count_by_one",
+		  "heroId": 3,
+		  "target": 10
+		}
+	  ],
+	  "concurrent": []
+	}
+  ]
