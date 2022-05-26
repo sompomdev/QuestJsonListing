@@ -774,7 +774,7 @@
         "concurrent": []
     },
     {
-        "id": "64d330eb-6f78-47d0-854b-83445539726a",
+        "id": "3906e1c5-c8f9-4506-8c07-4707bc733e8e",
         "type": "big_boss",
         "skippable": false,
         "isDynamic": false,
@@ -1950,7 +1950,7 @@
         "concurrent": []
     },
     {
-        "id": "e5aa244e-2ab2-45ef-ae6b-80159b7d88bc",
+        "id": "20035ae1-8ce7-4eee-9234-521524f127cf",
         "type": "tutorial",
         "tutorialNum": 6,
         "skippable": false,
@@ -2103,7 +2103,6 @@
     },
     {
         "id": "e5be8224-b8c7-453f-8aaa-d038c5f4272f",
-        "type": "support",
         "isDynamic": true,
         "dynamicAvailable": -1,
         "skippable": true,

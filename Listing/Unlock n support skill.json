@@ -1,6 +1,7 @@
 [
 	{
 	  "id": "e5be8224-b8c7-453f-8aaa-d038c5f4272f",
+	  "type": "support",
 	  "isDynamic": true,
 	  "dynamicAvailable": -1,
 	  "skippable": true,
